@@ -1,0 +1,9 @@
+title: CyberSurf Blog
+description: Practical cybersecurity advice for Australian small businesses
+url: "https://blog.cybersurf.au"
+baseurl: ""
+permalink: /blog/:slug/
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
