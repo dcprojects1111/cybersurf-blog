@@ -22,12 +22,30 @@ layout: default
   .share-fb{background:#1877f2;color:#fff;}
   .share-x{background:#000;color:#fff;}
   .share-ig{background:linear-gradient(45deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888);color:#fff;}
+  .cta-bar{max-width:800px;margin:36px auto 0;background:linear-gradient(135deg,rgba(0,210,255,.08),rgba(0,119,190,.12));border:1px solid rgba(0,210,255,.3);border-radius:14px;padding:32px 36px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:24px;}
+  .cta-text h3{font-family:'Montserrat',sans-serif;font-weight:800;font-size:18px;color:#fcfdf2;margin-bottom:8px;}
+  .cta-text p{font-size:14px;color:rgba(252,253,242,.6);line-height:1.6;margin:0;}
+  .cta-buttons{display:flex;flex-wrap:wrap;gap:12px;flex-shrink:0;}
+  .cta-primary{display:inline-block;background:#00d2ff;color:#0a1628;font-family:'Montserrat',sans-serif;font-weight:800;font-size:13px;padding:12px 22px;border-radius:8px;text-decoration:none;white-space:nowrap;transition:opacity .15s;}
+  .cta-primary:hover{opacity:.85;}
+  .cta-secondary{display:inline-block;background:transparent;color:#00d2ff;font-family:'Montserrat',sans-serif;font-weight:700;font-size:13px;padding:11px 22px;border-radius:8px;text-decoration:none;border:1px solid rgba(0,210,255,.4);white-space:nowrap;transition:opacity .15s;}
+  .cta-secondary:hover{opacity:.85;}
 </style>
 <div class="article">
   <a href="/" class="back">&larr; All articles</a>
   <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
   <h1>{{ page.title }}</h1>
   <div class="content">{{ content }}</div>
+</div>
+<div class="cta-bar">
+  <div class="cta-text">
+    <h3>Is your business exposed?</h3>
+    <p>Find out if this threat has already affected you — or get a complete security check tailored to your business.</p>
+  </div>
+  <div class="cta-buttons">
+    <a class="cta-primary" href="https://cybersurf.au/#breach-check" target="_blank" rel="noopener">$30 Breach Check</a>
+    <a class="cta-secondary" href="https://cybersurf.au/#surf-check" target="_blank" rel="noopener">Book a Full Scan</a>
+  </div>
 </div>
 <div class="share-bar">
   <span class="share-label">Share</span>
