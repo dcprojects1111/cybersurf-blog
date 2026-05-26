@@ -15,6 +15,13 @@ layout: default
   .content li{margin-bottom:6px;}
   .content a{color:#00d2ff;}
   .content strong{color:#fcfdf2;}
+  .share-bar{max-width:800px;margin:28px auto 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+  .share-label{font-size:12px;color:rgba(252,253,242,.35);font-family:'Montserrat',sans-serif;letter-spacing:1px;text-transform:uppercase;margin-right:4px;}
+  .share-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:8px;font-size:13px;font-weight:600;text-decoration:none;border:none;cursor:pointer;font-family:'Roboto',sans-serif;transition:opacity .15s;}
+  .share-btn:hover{opacity:.85;}
+  .share-fb{background:#1877f2;color:#fff;}
+  .share-x{background:#000;color:#fff;}
+  .share-ig{background:linear-gradient(45deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888);color:#fff;}
 </style>
 <div class="article">
   <a href="/" class="back">&larr; All articles</a>
@@ -22,3 +29,31 @@ layout: default
   <h1>{{ page.title }}</h1>
   <div class="content">{{ content }}</div>
 </div>
+<div class="share-bar">
+  <span class="share-label">Share</span>
+  <a class="share-btn share-fb"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
+     target="_blank" rel="noopener">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+    Facebook
+  </a>
+  <a class="share-btn share-x"
+     href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}"
+     target="_blank" rel="noopener">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+    Post on X
+  </a>
+  <button class="share-btn share-ig" onclick="copyLink(this)">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1.5" fill="currentColor" stroke="none"/></svg>
+    <span>Copy for Instagram</span>
+  </button>
+</div>
+<script>
+function copyLink(btn) {
+  navigator.clipboard.writeText(window.location.href).then(function() {
+    var span = btn.querySelector('span');
+    span.textContent = 'Link Copied!';
+    setTimeout(function(){ span.textContent = 'Copy for Instagram'; }, 2500);
+  });
+}
+</script>
