@@ -31,6 +31,19 @@ layout: default
   .cta-primary:hover{opacity:.85;}
   .cta-secondary{display:inline-block;background:transparent;color:#00d2ff;font-family:'Montserrat',sans-serif;font-weight:700;font-size:13px;padding:11px 22px;border-radius:8px;text-decoration:none;border:1px solid rgba(0,210,255,.4);white-space:nowrap;transition:opacity .15s;}
   .cta-secondary:hover{opacity:.85;}
+  .subscribe-bar{max-width:800px;margin:28px auto 0;background:rgba(255,255,255,.03);border:1px solid rgba(0,210,255,.2);border-radius:14px;padding:32px 36px;}
+  .subscribe-bar h3{font-family:'Montserrat',sans-serif;font-weight:800;font-size:18px;color:#fcfdf2;margin-bottom:8px;}
+  .subscribe-bar p{font-size:14px;color:rgba(252,253,242,.6);line-height:1.6;margin-bottom:20px;}
+  .subscribe-form{display:flex;gap:10px;flex-wrap:wrap;}
+  .sub-input{flex:1;min-width:160px;background:rgba(255,255,255,.06);border:1px solid rgba(0,210,255,.2);border-radius:8px;padding:11px 16px;color:#fcfdf2;font-family:'Roboto',sans-serif;font-size:14px;outline:none;}
+  .sub-input:focus{border-color:#00d2ff;}
+  .sub-input::placeholder{color:rgba(252,253,242,.3);}
+  .sub-btn{background:#00d2ff;color:#0a1628;font-family:'Montserrat',sans-serif;font-weight:800;font-size:13px;padding:11px 22px;border-radius:8px;border:none;cursor:pointer;white-space:nowrap;transition:opacity .15s;}
+  .sub-btn:hover{opacity:.85;}
+  .sub-btn:disabled{opacity:.5;cursor:not-allowed;}
+  .sub-msg{margin-top:12px;font-size:13px;}
+  .sub-success{color:#00d2ff;}
+  .sub-error{color:#ff6b6b;}
 </style>
 <div class="article">
   <a href="/" class="back">&larr; All articles</a>
@@ -68,6 +81,16 @@ layout: default
     <span>Copy for Instagram</span>
   </button>
 </div>
+<div class="subscribe-bar">
+  <h3>Stay ahead of cyber threats</h3>
+  <p>Weekly security news rewritten for Sunshine Coast small businesses. No jargon. No spam.</p>
+  <form class="subscribe-form" id="subscribeForm">
+    <input type="text" name="firstName" placeholder="First name" class="sub-input"/>
+    <input type="email" name="email" placeholder="Email address" class="sub-input" required/>
+    <button type="submit" class="sub-btn" id="subBtn">Subscribe</button>
+  </form>
+  <div class="sub-msg" id="subMsg"></div>
+</div>
 <script>
 function copyLink(btn) {
   navigator.clipboard.writeText(window.location.href).then(function() {
@@ -76,4 +99,38 @@ function copyLink(btn) {
     setTimeout(function(){ span.textContent = 'Copy for Instagram'; }, 2500);
   });
 }
+document.getElementById('subscribeForm').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  var btn = document.getElementById('subBtn');
+  var msg = document.getElementById('subMsg');
+  var firstName = this.firstName.value.trim();
+  var email = this.email.value.trim();
+  btn.textContent = 'Subscribing...';
+  btn.disabled = true;
+  try {
+    var res = await fetch('https://emailoctopus.com/api/1.6/lists/0c978f28-5a98-11f1-9b47-67eaa9fd35e0/contacts', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({api_key:'eo_9298e3b38af0d0ec285fee059f604e1c4cffda6dc35f1b0959db5c32205d198d',email_address:email,fields:{FirstName:firstName},status:'SUBSCRIBED'})
+    });
+    var data = await res.json();
+    if (res.ok) {
+      msg.className = 'sub-msg sub-success';
+      msg.textContent = "You're in! Welcome to the CyberSurf community.";
+      document.getElementById('subscribeForm').style.display = 'none';
+    } else if (data.error && data.error.code === 'MEMBER_EXISTS_WITH_EMAIL_ADDRESS') {
+      msg.className = 'sub-msg sub-error';
+      msg.textContent = "You're already subscribed!";
+      btn.textContent = 'Subscribe'; btn.disabled = false;
+    } else {
+      msg.className = 'sub-msg sub-error';
+      msg.textContent = 'Something went wrong. Please try again.';
+      btn.textContent = 'Subscribe'; btn.disabled = false;
+    }
+  } catch(err) {
+    msg.className = 'sub-msg sub-error';
+    msg.textContent = 'Connection error. Please try again.';
+    btn.textContent = 'Subscribe'; btn.disabled = false;
+  }
+});
 </script>
