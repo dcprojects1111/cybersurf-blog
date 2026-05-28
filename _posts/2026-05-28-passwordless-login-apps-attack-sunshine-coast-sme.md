@@ -1,8 +1,8 @@
 ---
-  title: "Passwordless Login Apps Under Attack: Sunshine Coast SME Guide"
-  date: "2026-05-28"
-  image: "/assets/images/passwordless-login-apps-attack-sunshine-coast-sme.png"
-  ---
+title: "Passwordless Login Apps Under Attack: Sunshine Coast SME Guide"
+date: "2026-05-28"
+image: "/assets/images/passwordless-login-apps-attack-sunshine-coast-sme.png"
+---
   # Passwordless Login Apps Under Attack: What Sunshine Coast Small Business Owners Need to Know
 
 If you're running your business from your phone—managing bookings, sending invoices, or communicating with customers—you've probably embraced "passwordless" login apps. They're convenient, quick, and promised to be more secure than remembering dozens of passwords. But cybercriminals have found a way in, and small businesses on the Sunshine Coast need to pay attention.

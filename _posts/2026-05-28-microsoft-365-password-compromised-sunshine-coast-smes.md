@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Microsoft 365 Password Compromised? Sunshine Coast SMEs"
-  date: "2026-05-28"
-  image: "/assets/images/microsoft-365-password-compromised-sunshine-coast-smes.png"
-  ---
+---
+title: "Is Your Microsoft 365 Password Compromised? Sunshine Coast SMEs"
+date: "2026-05-28"
+image: "/assets/images/microsoft-365-password-compromised-sunshine-coast-smes.png"
+---
   # Sunshine Coast Businesses: Why Your Microsoft 365 Password Might Already Be Compromised
 
 If you're running a small business on the Sunshine Coast — whether you're managing short-stay accommodation, running a salon, or operating a trades business — there's a good chance you're using Microsoft 365 for email, invoicing, or keeping track of your customers. What many local business owners don't realise is that cybercriminals are actively targeting these accounts, and yours might already be on their radar.

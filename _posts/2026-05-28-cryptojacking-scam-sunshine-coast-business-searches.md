@@ -1,8 +1,8 @@
 ---
-  title: "Cryptojacking Scam Hitting Sunshine Coast Business Searches"
-  date: "2026-05-28"
-  image: "/assets/images/cryptojacking-scam-sunshine-coast-business-searches.png"
-  ---
+title: "Cryptojacking Scam Hitting Sunshine Coast Business Searches"
+date: "2026-05-28"
+image: "/assets/images/cryptojacking-scam-sunshine-coast-business-searches.png"
+---
   # Cryptojacking Scam Hitting Sunshine Coast Businesses Through Google Searches
 
 If you've recently Googled how to download popular software for your business—anything from PDF readers to design tools—you might have unknowingly invited a serious threat onto your laptop or phone.

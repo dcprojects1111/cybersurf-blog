@@ -1,8 +1,8 @@
 ---
-  title: "FBI Warns of Microsoft Phishing Scam Targeting SC Businesses"
-  date: "2026-05-28"
-  image: "/assets/images/fbi-microsoft-phishing-scam-sunshine-coast-businesses.png"
-  ---
+title: "FBI Warns of Microsoft Phishing Scam Targeting SC Businesses"
+date: "2026-05-28"
+image: "/assets/images/fbi-microsoft-phishing-scam-sunshine-coast-businesses.png"
+---
   # New Phishing Scam Targets Microsoft Accounts Used by Sunshine Coast Small Businesses
 
 If you're running your business from your phone or laptop using Microsoft services like Outlook, Teams, or OneDrive, there's something you need to know about. The FBI has just issued a warning about a sophisticated new phishing scam that's specifically designed to steal access to these accounts — and it's clever enough to get past the security most people think is protecting them.

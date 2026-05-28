@@ -1,8 +1,8 @@
- ---
-  title: "Kali365 Phishing Kit Targets Microsoft 365 Business Accounts"
-  date: "2026-05-28"
-  image: "/assets/images/kali365-phishing-kit-targets-microsoft-365-business.png"
-  ---
+---
+title: "Kali365 Phishing Kit Targets Microsoft 365 Business Accounts"
+date: "2026-05-28"
+image: "/assets/images/kali365-phishing-kit-targets-microsoft-365-business.png"
+---
   # New Phishing Kit Targets Microsoft Accounts: What Sunshine Coast Small Businesses Need to Know
 
 If you're running your business from your phone or laptop using Microsoft 365 — Outlook for emails, Teams for client chats, OneDrive for storing quotes and invoices — there's a new cyber threat you should know about.
