@@ -1,8 +1,8 @@
- ---
-  title: "Carnival Data Breach: Warning for Sunshine Coast Businesses"
-  date: "2026-05-28"
-  image: "/assets/images/carnival-data-breach-warning-sunshine-coast-businesses.png"
-  ---
+---
+title: "Carnival Data Breach: Warning for Sunshine Coast Businesses"
+date: "2026-05-28"
+image: "/assets/images/carnival-data-breach-warning-sunshine-coast-businesses.png"
+---
   # Massive Carnival Cruise Data Breach: A Wake-Up Call for Sunshine Coast Small Businesses
 
 **When a global cruise giant with millions to spend on security gets hacked, what does that mean for your small business on the Sunshine Coast?**

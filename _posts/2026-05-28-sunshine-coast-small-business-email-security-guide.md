@@ -1,8 +1,8 @@
- ---
-  title: "Sunshine Coast Small Business Email Security Guide 2024"
-  date: "2026-05-28"
-  image: "/assets/images/sunshine-coast-small-business-email-security-guide.png"
-  ---
+---
+title: "Sunshine Coast Small Business Email Security Guide 2024"
+date: "2026-05-28"
+image: "/assets/images/sunshine-coast-small-business-email-security-guide.png"
+---
   # Your Business Email Just Became a Cybercriminal's Favourite Tool
 
 If you run a small business on the Sunshine Coast, there's a good chance you're reading this on the same phone you use to manage client bookings, send invoices, and handle supplier payments. And there's an even better chance you've never given much thought to whether your email account could be used against you.

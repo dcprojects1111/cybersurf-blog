@@ -1,8 +1,8 @@
- ---
-  title: "Fake ChatGPT Downloads Targeting Sunshine Coast Businesses"
-  date: "2026-05-28"
-  image: "/assets/images/fake-chatgpt-downloads-targeting-sunshine-coast-businesses.png"
-  ---
+---
+title: "Fake ChatGPT Downloads Targeting Sunshine Coast Businesses"
+date: "2026-05-28"
+image: "/assets/images/fake-chatgpt-downloads-targeting-sunshine-coast-businesses.png"
+---
   # Fake ChatGPT Download Sites Are Targeting Sunshine Coast Small Businesses
 
 If you've searched online for ChatGPT recently, you might have stumbled across what looks like a legitimate download page. But cyber criminals are counting on exactly that — and they're now infecting both Windows and Mac users with malware through cleverly disguised fake ChatGPT websites.
