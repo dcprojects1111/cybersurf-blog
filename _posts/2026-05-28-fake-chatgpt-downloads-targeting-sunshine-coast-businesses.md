@@ -1,7 +1,7 @@
 ---
 title: "Fake ChatGPT Downloads Targeting Sunshine Coast Businesses"
 date: "2026-05-28"
-image: "/assets/images/fake-chatgpt-downloads-targeting-sunshine-coast-businesses.png"
+image: "/assets/images/fake-chatgpt-downloads-targeting-sunshine-coast-businesses.jpg"
 ---
   # Fake ChatGPT Download Sites Are Targeting Sunshine Coast Small Businesses
 

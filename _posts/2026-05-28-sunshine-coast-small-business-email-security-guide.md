@@ -1,7 +1,7 @@
 ---
 title: "Sunshine Coast Small Business Email Security Guide 2024"
 date: "2026-05-28"
-image: "/assets/images/sunshine-coast-small-business-email-security-guide.png"
+image: "/assets/images/sunshine-coast-small-business-email-security-guide.jpg"
 ---
   # Your Business Email Just Became a Cybercriminal's Favourite Tool
 
