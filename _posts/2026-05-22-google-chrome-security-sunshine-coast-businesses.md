@@ -1,6 +1,7 @@
 ---
 title: "Google Chrome Security Flaw: What Sunshine Coast SMEs Need"
 date: "2026-05-22"
+image: "/assets/images/google-chrome-security-sunshine-coast-businesses.jpg"
 ---
 
 # Google's Latest Browser Security Issue: What Sunshine Coast Business Owners Need to Know

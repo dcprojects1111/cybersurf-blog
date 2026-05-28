@@ -1,6 +1,7 @@
 ---
 title: "Data Breach Risks for Australian Small Businesses"
 date: "2026-05-26"
+image: "/assets/images/data-breach-risks-australian-small-businesses.jpg"
 ---
 
 # Major Data Breach Exposes Risks for Australian Small Businesses

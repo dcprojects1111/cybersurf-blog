@@ -1,6 +1,7 @@
 ---
 title: "Microsoft Defender Flaws: Guide for Sunshine Coast SMEs"
 date: "2026-05-22"
+image: "/assets/images/microsoft-defender-flaws-sunshine-coast-business.jpg"
 ---
 
 # Microsoft Defender Security Flaws: What Sunshine Coast Business Owners Need to Know

@@ -1,6 +1,7 @@
 ---
 title: "Has Your Business Email Been Compromised? Sunshine Coast Guide"
 date: "2026-05-26"
+image: "/assets/images/business-email-compromised-sunshine-coast-guide.jpg"
 ---
 
 # Has Your Business Email Already Been Compromised? What Sunshine Coast Small Business Owners Need to Know

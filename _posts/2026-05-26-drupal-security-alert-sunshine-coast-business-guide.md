@@ -1,6 +1,7 @@
 ---
 title: "Drupal Security Alert: Sunshine Coast Business Guide"
 date: "2026-05-26"
+image: "/assets/images/drupal-security-alert-sunshine-coast-business-guide.jpg"
 ---
 
 # Understanding the Latest Drupal Security Alert: What Sunshine Coast Businesses Need to Know

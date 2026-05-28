@@ -1,6 +1,7 @@
 ---
 title: "Drupal Security Flaw: Urgent Action for Sunshine Coast Sites"
 date: "2026-05-26"
+image: "/assets/images/drupal-security-flaw-urgent-action-sunshine-coast-sites.jpg"
 ---
 
 # Urgent Drupal Security Flaw: What Sunshine Coast Small Businesses Need to Know

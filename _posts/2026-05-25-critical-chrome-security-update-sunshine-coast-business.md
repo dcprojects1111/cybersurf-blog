@@ -1,6 +1,7 @@
 ---
 title: "Critical Chrome Security Update for Sunshine Coast Business"
 date: "2026-05-25"
+image: "/assets/images/critical-chrome-security-update-sunshine-coast-business.jpg"
 ---
 
 # Critical Chrome Security Update: What Sunshine Coast Businesses Need to Know

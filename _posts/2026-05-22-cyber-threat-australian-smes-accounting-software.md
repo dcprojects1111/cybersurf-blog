@@ -1,6 +1,7 @@
 ---
 title: "Cyber Threat Targeting Australian SMEs via Accounting Software"
 date: "2026-05-22"
+image: "/assets/images/cyber-threat-australian-smes-accounting-software.jpg"
 ---
 
 # New Cyber Threat Targeting Australian Small Businesses Through Accounting Software

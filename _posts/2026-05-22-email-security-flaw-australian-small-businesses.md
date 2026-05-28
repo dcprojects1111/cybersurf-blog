@@ -1,6 +1,7 @@
 ---
 title: "Email Security Flaw Puts Australian Small Businesses at Risk"
 date: "2026-05-22"
+image: "/assets/images/email-security-flaw-australian-small-businesses.jpg"
 ---
 
 # Major Security Flaw in Popular Email Software Puts Australian Small Businesses at Risk

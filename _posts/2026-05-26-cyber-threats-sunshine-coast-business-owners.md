@@ -1,6 +1,7 @@
 ---
 title: "Cyber Threats for Sunshine Coast Business Owners Explained"
 date: "2026-05-26"
+image: "/assets/images/cyber-threats-sunshine-coast-business-owners.jpg"
 ---
 
 # Understanding This Week's Cyber Threats: What Sunshine Coast Business Owners Need to Know
