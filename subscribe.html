@@ -37,3 +37,17 @@ permalink: /subscribe/
     <script async src="https://eocampaign1.com/form/4c906d18-5a9b-11f1-9ea1-f97a30e8dc51.js" data-form="4c906d18-5a9b-11f1-9ea1-f97a30e8dc51"></script>
   </div>
 </div>
+<script>
+function fixSubscribeCardStyles() {
+  var card = document.querySelector('.subscribe-card');
+  if (!card) return;
+  card.querySelectorAll('div,section,article,form,span,p,h1,h2,h3,h4').forEach(function(el) {
+    el.style.setProperty('background', 'transparent', 'important');
+    el.style.setProperty('background-color', 'transparent', 'important');
+    el.style.setProperty('box-shadow', 'none', 'important');
+    el.style.setProperty('border', 'none', 'important');
+  });
+}
+setTimeout(fixSubscribeCardStyles, 500);
+setTimeout(fixSubscribeCardStyles, 1500);
+</script>

@@ -89,4 +89,16 @@ function copyLink(btn) {
     setTimeout(function(){ span.textContent = 'Copy for Instagram'; }, 2500);
   });
 }
+function fixSubscribeStyles() {
+  var bar = document.querySelector('.subscribe-bar');
+  if (!bar) return;
+  bar.querySelectorAll('div,section,article,form,span,p,h1,h2,h3,h4').forEach(function(el) {
+    el.style.setProperty('background', 'transparent', 'important');
+    el.style.setProperty('background-color', 'transparent', 'important');
+    el.style.setProperty('box-shadow', 'none', 'important');
+    el.style.setProperty('border', 'none', 'important');
+  });
+}
+setTimeout(fixSubscribeStyles, 500);
+setTimeout(fixSubscribeStyles, 1500);
 </script>
