@@ -12,6 +12,7 @@ title: Home
   .post-card:hover{border-color:#00d2ff;background:rgba(0,210,255,.06);}
   .post-date{font-size:12px;color:rgba(252,253,242,.35);font-family:'Montserrat',sans-serif;letter-spacing:1px;text-transform:uppercase;margin-bottom:10px;}
   .post-title{font-family:'Montserrat',sans-serif;font-weight:800;font-size:18px;color:#fcfdf2;}
+  .post-thumb{width:100%;height:auto;max-height:240px;object-fit:cover;border-radius:10px;margin-top:14px;display:block;}
   .post-excerpt{font-size:14px;line-height:1.6;color:rgba(252,253,242,.55);margin-top:10px;}
   .post-arrow{font-size:13px;color:#00d2ff;margin-top:12px;}
   .empty{color:rgba(252,253,242,.4);font-size:15px;text-align:center;padding:60px 20px;}
@@ -27,6 +28,9 @@ title: Home
     <a href="{{ post.url }}" class="post-card">
       <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
       <div class="post-title">{{ post.title }}</div>
+      {% if post.image %}
+      <img class="post-thumb" src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"/>
+      {% endif %}
       {% assign paras = post.content | split: '<p>' %}
       {% if paras.size > 1 %}
       <div class="post-excerpt">{{ paras[1] | strip_html | truncatewords: 40 }}</div>
