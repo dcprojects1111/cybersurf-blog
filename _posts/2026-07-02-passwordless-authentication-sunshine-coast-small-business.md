@@ -1,8 +1,8 @@
- ---
-  title: "Passwordless Authentication for Sunshine Coast Small Business"
-  date: "2026-07-02"
-  image: "/assets/images/passwordless-authentication-sunshine-coast-small-business.png"
-  ---
+---
+title: "Passwordless Authentication for Sunshine Coast Small Business"
+date: "2026-07-02"
+image: "/assets/images/passwordless-authentication-sunshine-coast-small-business.png"
+---
   # Passwordless Authentication: What Sunshine Coast Small Businesses Need to Know
 
 ## The Death of the Password Is Finally Here
