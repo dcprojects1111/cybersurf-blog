@@ -1,9 +1,9 @@
- ---
-  title: "Carnival Data Breach: Cyber Security Lesson for Small Business"
-  date: "2026-05-28"
-  image: "/assets/images/carnival-data-breach-cyber-security-lesson-small-business.png"
-  ---
-  # Major Cruise Line Data Breach: A Wake-Up Call for Sunshine Coast Small Businesses
+---
+title: "Carnival Data Breach: Cyber Security Lesson for Small Business"
+date: "2026-05-28"
+image: "/assets/images/carnival-data-breach-cyber-security-lesson-small-business.png"
+---
+# Major Cruise Line Data Breach: A Wake-Up Call for Sunshine Coast Small Businesses
 
 When Carnival Cruise Lines recently confirmed that hackers stole personal information from nearly 6 million customers, it sent shockwaves through the travel industry. But here's what matters for your Sunshine Coast business: the same type of cyber attack that hit a billion-dollar cruise corporation can just as easily target your small operation—and the consequences could be even more devastating.
 

@@ -1,9 +1,9 @@
- ---
-  title: "AI Chatbots Enable Smarter Cyber Attacks on Sunshine Coast SMEs"
-  date: "2026-05-28"
-  image: "/assets/images/ai-chatbots-cyber-attacks-sunshine-coast-small-business.png"
-  ---
-  # Hackers Are Using AI Chatbots to Launch Smarter Attacks on Aussie Small Businesses
+---
+title: "AI Chatbots Enable Smarter Cyber Attacks on Sunshine Coast SMEs"
+date: "2026-05-28"
+image: "/assets/images/ai-chatbots-cyber-attacks-sunshine-coast-small-business.png"
+---
+# Hackers Are Using AI Chatbots to Launch Smarter Attacks on Aussie Small Businesses
 
 If you run a business on the Sunshine Coast—whether you're managing an Airbnb, running a plumbing business, or operating a café—you need to know about a worrying trend that's making cybercrime easier than ever before.
 

@@ -1,9 +1,9 @@
- ---
-  title: "Hackers Target Small Business Accountants on Sunshine Coast"
-  date: "2026-07-01"
-  image: "/assets/images/hackers-target-small-business-accountants-sunshine-coast.png"
-  ---
-  # Hackers Are Now Targeting Small Business Accountants to Break Into Client Systems
+---
+title: "Hackers Target Small Business Accountants on Sunshine Coast"
+date: "2026-07-01"
+image: "/assets/images/hackers-target-small-business-accountants-sunshine-coast.png"
+---
+# Hackers Are Now Targeting Small Business Accountants to Break Into Client Systems
 
 ## Why Sunshine Coast small businesses need to know about this growing cyber threat
 

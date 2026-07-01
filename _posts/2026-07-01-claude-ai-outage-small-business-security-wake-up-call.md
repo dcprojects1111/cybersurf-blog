@@ -1,9 +1,9 @@
- ---
-  title: "Claude AI Outage: A Wake-Up Call for Small Business Security"
-  date: "2026-07-01"
-  image: "/assets/images/claude-ai-outage-small-business-security-wake-up-call.png"
-  ---
-  # Anthropic Restores Claude AI Access: What Sunshine Coast Small Business Owners Need to Know
+---
+title: "Claude AI Outage: A Wake-Up Call for Small Business Security"
+date: "2026-07-01"
+image: "/assets/images/claude-ai-outage-small-business-security-wake-up-call.png"
+---
+# Anthropic Restores Claude AI Access: What Sunshine Coast Small Business Owners Need to Know
 
 If you've been using AI tools like Claude to help run your business, you might have noticed some disruption recently. Anthropic, the company behind Claude AI, temporarily lost access to its most powerful versions due to U.S. export controls. While access has now been restored, this situation highlights something many Sunshine Coast small business owners haven't considered: what happens when the digital tools you rely on suddenly disappear?
 
