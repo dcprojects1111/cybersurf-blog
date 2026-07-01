@@ -1,0 +1,46 @@
+name: Fix post front matter
+
+# Runs the fixer program and commits any corrections back to the repo.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_posts/**'          # fires the moment n8n publishes a post
+  schedule:
+    - cron: '0 21 * * *'     # daily safety sweep (21:00 UTC = 07:00 AEST)
+  workflow_dispatch: {}       # adds a manual "Run workflow" button
+
+# Don't re-trigger on the fixer's own commit (prevents an infinite loop).
+concurrency:
+  group: fix-frontmatter
+  cancel-in-progress: false
+
+jobs:
+  fix:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # allow the job to push its fix commit
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run the front-matter fixer
+        run: python .github/scripts/fix_frontmatter.py _posts
+
+      - name: Commit and push any fixes
+        run: |
+          if [ -n "$(git status --porcelain _posts)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add _posts
+            git commit -m "Auto-fix: normalise post front matter [skip ci]"
+            git push
+          else
+            echo "Nothing to fix."
+          fi
