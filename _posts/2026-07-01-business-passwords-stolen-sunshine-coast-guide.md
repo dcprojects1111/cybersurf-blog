@@ -1,8 +1,8 @@
- ---
-  title: "Have Your Business Passwords Been Stolen? Sunshine Coast Guide"
-  date: "2026-07-01"
-  image: "/assets/images/business-passwords-stolen-sunshine-coast-guide.png"
-  ---
+---
+title: "Have Your Business Passwords Been Stolen? Sunshine Coast Guide"
+date: "2026-07-01"
+image: "/assets/images/business-passwords-stolen-sunshine-coast-guide.png"
+---
   # Have Your Business Passwords Already Been Stolen? What Sunshine Coast Small Business Owners Need to Know
 
 If you're running a small business on the Sunshine Coast — whether you're managing bookings from your phone at a salon in Noosa, sending quotes from a ute in Caloundra, or handling guest check-ins for your Mooloolaba Airbnb — there's something you need to know: your business passwords might already be for sale online.
