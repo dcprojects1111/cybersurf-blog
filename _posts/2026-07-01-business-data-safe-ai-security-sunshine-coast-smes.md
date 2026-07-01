@@ -1,9 +1,9 @@
- ---
-  title: "Is Your Business Data Safe? AI Security for Sunshine Coast SMEs"
-  date: "2026-07-01"
-  image: "/assets/images/business-data-safe-ai-security-sunshine-coast-smes.png"
-  ---
-  # Is Your Business Data Really Safe? What Sunshine Coast SMEs Need to Know About AI Security Changes
+---
+title: "Is Your Business Data Safe? AI Security for Sunshine Coast SMEs"
+date: "2026-07-01"
+image: "/assets/images/business-data-safe-ai-security-sunshine-coast-smes.png"
+---
+# Is Your Business Data Really Safe? What Sunshine Coast SMEs Need to Know About AI Security Changes
 
 If you're running a small business on the Sunshine Coast—whether you're a tradie, café owner, or accommodation host—you've probably heard whispers about artificial intelligence tools making business easier. Maybe you've even tried one. But recent changes in how these powerful AI systems are controlled should make every small business owner stop and think about who has access to their data.
 

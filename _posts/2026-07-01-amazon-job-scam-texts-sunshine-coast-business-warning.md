@@ -1,9 +1,9 @@
- ---
-  title: "Amazon Job Scam Texts: Sunshine Coast Business Warning"
-  date: "2026-07-01"
-  image: "/assets/images/amazon-job-scam-texts-sunshine-coast-business-warning.png"
-  ---
-  # Amazon Job Scam Texts: What Sunshine Coast Small Business Owners Need to Know
+---
+title: "Amazon Job Scam Texts: Sunshine Coast Business Warning"
+date: "2026-07-01"
+image: "/assets/images/amazon-job-scam-texts-sunshine-coast-business-warning.png"
+---
+# Amazon Job Scam Texts: What Sunshine Coast Small Business Owners Need to Know
 
 If you've received a text message lately promising easy money for "reviewing products" or "optimising listings" for Amazon, you're not alone. Scammers are ramping up a sophisticated con that's catching out busy business owners across Australia — and right here on the Sunshine Coast.
 

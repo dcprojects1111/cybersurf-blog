@@ -1,9 +1,9 @@
- ---
-  title: "QR Code Scams Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-01"
-  image: "/assets/images/qr-code-scams-targeting-sunshine-coast-small-businesses.png"
-  ---
-  # Cyber Criminals Are Exploiting QR Codes: What Sunshine Coast Business Owners Need to Know
+---
+title: "QR Code Scams Targeting Sunshine Coast Small Businesses"
+date: "2026-07-01"
+image: "/assets/images/qr-code-scams-targeting-sunshine-coast-small-businesses.png"
+---
+# Cyber Criminals Are Exploiting QR Codes: What Sunshine Coast Business Owners Need to Know
 
 If you've ever scanned a QR code to view a menu at a café or receive payment for a job, you need to read this. Cyber criminals have found a clever new way to trick busy business owners, and it's happening right now across Australia.
 
