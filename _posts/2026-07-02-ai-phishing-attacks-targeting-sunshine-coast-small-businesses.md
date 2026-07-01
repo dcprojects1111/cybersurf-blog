@@ -1,8 +1,8 @@
- ---
-  title: "AI Phishing Attacks Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-02"
-  image: "/assets/images/ai-phishing-attacks-targeting-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "AI Phishing Attacks Targeting Sunshine Coast Small Businesses"
+date: "2026-07-02"
+image: "/assets/images/ai-phishing-attacks-targeting-sunshine-coast-small-businesses.png"
+---
   # Cyber Criminals Are Using AI to Launch Smarter Phishing Attacks — Here's What Sunshine Coast Small Businesses Need to Know
 
 If you're running a small business on the Sunshine Coast, there's a good chance you've received a dodgy email or two. Maybe it was poorly written, full of spelling mistakes, or just felt "off" enough that you deleted it without a second thought.
