@@ -1,8 +1,8 @@
- ---
-  title: "FortiBleed Attack: Why Sunshine Coast Business Logins Are Gold"
-  date: "2026-07-02"
-  image: "/assets/images/fortibleed-attack-sunshine-coast-business-logins.png"
-  ---
+---
+title: "FortiBleed Attack: Why Sunshine Coast Business Logins Are Gold"
+date: "2026-07-02"
+image: "/assets/images/fortibleed-attack-sunshine-coast-business-logins.png"
+---
   # Sunshine Coast Businesses: The FortiBleed Attack Shows Why Your Login Credentials Are Gold to Cybercriminals
 
 If you're running a small business on the Sunshine Coast—whether you're a tradie, accommodation host, or salon owner—you might think hackers only target big corporations. The reality is quite different. A massive cyber attack called "FortiBleed" has just been exposed, and it reveals exactly how criminals are stealing business login details to break into systems weeks or even months later.
