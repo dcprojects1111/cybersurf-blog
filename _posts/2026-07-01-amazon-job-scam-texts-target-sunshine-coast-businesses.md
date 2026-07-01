@@ -1,8 +1,8 @@
- ---
-  title: "Amazon Job Scam Texts Target Sunshine Coast Businesses"
-  date: "2026-07-01"
-  image: "/assets/images/amazon-job-scam-texts-target-sunshine-coast-businesses.png"
-  ---
+---
+title: "Amazon Job Scam Texts Target Sunshine Coast Businesses"
+date: "2026-07-01"
+image: "/assets/images/amazon-job-scam-texts-target-sunshine-coast-businesses.png"
+---
   # Amazon Job Scam Texts Are Targeting Sunshine Coast Small Business Owners
 
 If you've received a text message recently promising easy money working from home for Amazon, you're not alone — and you're being targeted by scammers. This sophisticated scam is making the rounds across Australia, and small business owners on the Sunshine Coast need to know what to look out for.
