@@ -1,8 +1,8 @@
- ---
-  title: "Fake Browser Extensions Targeting Sunshine Coast Businesses"
-  date: "2026-07-02"
-  image: "/assets/images/fake-browser-extensions-targeting-sunshine-coast-businesses.png"
-  ---
+---
+title: "Fake Browser Extensions Targeting Sunshine Coast Businesses"
+date: "2026-07-02"
+image: "/assets/images/fake-browser-extensions-targeting-sunshine-coast-businesses.png"
+---
   # Fake Browser Extensions Are Targeting Small Businesses — Here's What Sunshine Coast Owners Need to Know
 
 If you're running your business from your phone or laptop — whether you're managing bookings for your accommodation, sending quotes as a tradie, or keeping client records for your salon — there's a new threat you need to know about. It's not flashy, it's not obvious, and that's exactly what makes it dangerous.
