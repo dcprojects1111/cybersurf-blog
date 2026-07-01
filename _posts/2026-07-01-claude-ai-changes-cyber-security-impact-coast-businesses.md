@@ -1,8 +1,8 @@
- ---
-  title: "Claude AI Changes: Cyber Security Impact for Coast Businesses"
-  date: "2026-07-01"
-  image: "/assets/images/claude-ai-changes-cyber-security-impact-coast-businesses.png"
-  ---
+---
+title: "Claude AI Changes: Cyber Security Impact for Coast Businesses"
+date: "2026-07-01"
+image: "/assets/images/claude-ai-changes-cyber-security-impact-coast-businesses.png"
+---
   # Sunshine Coast Small Businesses: What the Claude AI Changes Mean for Your Cyber Security
 
 ## Why You Should Care About This Week's AI News
