@@ -1,8 +1,8 @@
- ---
-  title: "LastPass Breach: Password Security for Sunshine Coast SMEs"
-  date: "2026-07-01"
-  image: "/assets/images/lastpass-breach-password-security-sunshine-coast-smes.png"
-  ---
+---
+title: "LastPass Breach: Password Security for Sunshine Coast SMEs"
+date: "2026-07-01"
+image: "/assets/images/lastpass-breach-password-security-sunshine-coast-smes.png"
+---
   # Critical LastPass Breach Exposes Risks for Small Businesses Relying on Password Managers
 
 ## What Happened with LastPass?
