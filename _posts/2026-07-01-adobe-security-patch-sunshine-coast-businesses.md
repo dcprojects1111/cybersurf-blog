@@ -1,8 +1,8 @@
- ---
-  title: "Adobe Security Patch: What Sunshine Coast Businesses Need to Know"
-  date: "2026-07-01"
-  image: "/assets/images/adobe-security-patch-sunshine-coast-businesses.png"
-  ---
+---
+title: "Adobe Security Patch: What Sunshine Coast Businesses Need to Know"
+date: "2026-07-01"
+image: "/assets/images/adobe-security-patch-sunshine-coast-businesses.png"
+---
   # Adobe Security Patch: What Sunshine Coast Small Businesses Need to Know
 
 If your business uses Adobe software to run your website, send marketing emails, or manage customer bookings, there's something important you need to know. Adobe recently patched seven critical security holes in two of their business platforms — and if you're using them, you could be vulnerable right now.
