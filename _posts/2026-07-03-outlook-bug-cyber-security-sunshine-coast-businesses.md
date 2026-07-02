@@ -1,8 +1,8 @@
- ---
-  title: "Outlook Bug & Cyber Security for Sunshine Coast Businesses"
-  date: "2026-07-03"
-  image: "/assets/images/outlook-bug-cyber-security-sunshine-coast-businesses.png"
-  ---
+---
+title: "Outlook Bug & Cyber Security for Sunshine Coast Businesses"
+date: "2026-07-03"
+image: "/assets/images/outlook-bug-cyber-security-sunshine-coast-businesses.png"
+---
   # Microsoft Outlook Bug Removes Copilot Buttons: What Sunshine Coast Small Businesses Need to Know
 
 If you're running a small business on the Sunshine Coast and rely on Microsoft Outlook to manage your daily emails, customer bookings, or supplier communications, you'll want to know about a recent technical hiccup that's been affecting business owners worldwide — and what it means for your cyber security.
