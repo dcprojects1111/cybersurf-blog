@@ -1,8 +1,8 @@
- ---
-  title: "Apple Hide My Email Flaw: Risk for Sunshine Coast Businesses"
-  date: "2026-07-03"
-  image: "/assets/images/apple-hide-my-email-flaw-sunshine-coast-businesses.png"
-  ---
+---
+title: "Apple Hide My Email Flaw: Risk for Sunshine Coast Businesses"
+date: "2026-07-03"
+image: "/assets/images/apple-hide-my-email-flaw-sunshine-coast-businesses.png"
+---
   # Apple's Hide My Email Feature Has a Security Flaw — What Sunshine Coast Small Business Owners Need to Know
 
 If you're running your business from your iPhone — managing bookings, sending invoices, or communicating with customers — you might be using Apple's "Hide My Email" feature without realising it could put your real email address at risk.
