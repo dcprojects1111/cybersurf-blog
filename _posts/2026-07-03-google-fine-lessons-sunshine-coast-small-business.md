@@ -1,8 +1,8 @@
- ---
-  title: "Google's €4.1B Fine: Lessons for Sunshine Coast Businesses"
-  date: "2026-07-03"
-  image: "/assets/images/google-fine-lessons-sunshine-coast-small-business.png"
-  ---
+---
+title: "Google's €4.1B Fine: Lessons for Sunshine Coast Businesses"
+date: "2026-07-03"
+image: "/assets/images/google-fine-lessons-sunshine-coast-small-business.png"
+---
   # Google's €4.1 Billion Fine: What It Means for Your Sunshine Coast Small Business
 
 You might have seen the headline: Google just lost its final appeal against a massive €4.1 billion fine from European regulators. For a tech giant, that's a hefty penalty—but if you're running a café on the Coast, managing a few holiday rentals, or operating a trades business from your ute, you might be wondering what this has to do with you.
