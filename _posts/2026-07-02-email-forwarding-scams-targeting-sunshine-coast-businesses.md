@@ -1,8 +1,8 @@
- ---
-  title: "Email Forwarding Scams Targeting Sunshine Coast Businesses"
-  date: "2026-07-02"
-  image: "/assets/images/email-forwarding-scams-targeting-sunshine-coast-businesses.png"
-  ---
+---
+title: "Email Forwarding Scams Targeting Sunshine Coast Businesses"
+date: "2026-07-02"
+image: "/assets/images/email-forwarding-scams-targeting-sunshine-coast-businesses.png"
+---
   # Your Business Email Could Be Silently Forwarding to Criminals Right Now
 
 **If you're running your Sunshine Coast business from your phone — managing bookings, sending invoices, or coordinating jobs via email — there's a threat you need to know about. And it's one that leaves no trace until it's too late.**
