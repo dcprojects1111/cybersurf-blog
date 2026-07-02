@@ -1,8 +1,8 @@
- ---
-  title: "Fake Invoice Scam Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-03"
-  image: "/assets/images/fake-invoice-scam-targeting-sunshine-coast-businesses.png"
-  ---
+---
+title: "Fake Invoice Scam Targeting Sunshine Coast Small Businesses"
+date: "2026-07-03"
+image: "/assets/images/fake-invoice-scam-targeting-sunshine-coast-businesses.png"
+---
   # New Phishing Attack Targeting Small Businesses Through Fake Service Invoices
 
 If you're running a small business on the Sunshine Coast, there's a new email scam doing the rounds that you need to know about. Cybercriminals are sending incredibly convincing fake invoices that look like they're from suppliers and services you actually use — and local businesses are already getting caught out.
