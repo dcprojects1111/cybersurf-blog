@@ -1,8 +1,8 @@
- ---
-  title: "WinRAR Security Flaw: What Sunshine Coast Businesses Must Know"
-  date: "2026-07-03"
-  image: "/assets/images/winrar-security-flaw-sunshine-coast-businesses.png"
-  ---
+---
+title: "WinRAR Security Flaw: What Sunshine Coast Businesses Must Know"
+date: "2026-07-03"
+image: "/assets/images/winrar-security-flaw-sunshine-coast-businesses.png"
+---
   # WinRAR Security Flaw: Why Sunshine Coast Small Businesses Need to Pay Attention
 
 If you've ever downloaded a file that ends in .RAR or .ZIP, you've probably used WinRAR or similar software to open it. It's one of those programs that quietly sits on your computer, doing its job without much fuss. But a recently discovered security flaw in WinRAR has cybersecurity experts concerned—and if you're running a small business on the Sunshine Coast, you need to know what this means for you.
