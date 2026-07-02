@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Business Email Compromised? Sunshine Coast Guide"
-  date: "2026-07-03"
-  image: "/assets/images/is-your-business-email-compromised-sunshine-coast-guide.png"
-  ---
+---
+title: "Is Your Business Email Compromised? Sunshine Coast Guide"
+date: "2026-07-03"
+image: "/assets/images/is-your-business-email-compromised-sunshine-coast-guide.png"
+---
   # Is Your Business Email Already Compromised? What Sunshine Coast Small Business Owners Need to Know
 
 If you're running your tradie business, salon, or Airbnb from your phone and email, there's something you need to know: cybercriminals are actively targeting small business email accounts, and you might not even realise yours has been compromised.
