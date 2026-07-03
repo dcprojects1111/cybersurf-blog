@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Business Software Getting More Expensive? SC Guide"
-  date: "2026-07-04"
-  image: "/assets/images/business-software-pricing-changes-sunshine-coast.png"
-  ---
+---
+title: "Is Your Business Software Getting More Expensive? SC Guide"
+date: "2026-07-04"
+image: "/assets/images/business-software-pricing-changes-sunshine-coast.png"
+---
   # Is Your Business Software About to Get More Expensive? What Sunshine Coast Small Businesses Need to Know
 
 If you run your business from your phone—managing bookings, invoices, or customer communications through subscription apps—you need to pay attention to what's happening in the software world right now. Major tech companies are quietly changing how they deliver their services, and it could affect the tools you rely on every day.
