@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Business Login Compromised? Sunshine Coast Guide"
-  date: "2026-07-03"
-  image: "/assets/images/business-login-compromised-sunshine-coast-guide.png"
-  ---
+---
+title: "Is Your Business Login Compromised? Sunshine Coast Guide"
+date: "2026-07-03"
+image: "/assets/images/business-login-compromised-sunshine-coast-guide.png"
+---
   # Is Your Business Login Already Compromised? What Sunshine Coast Small Business Owners Need to Know About Account Security
 
 If you're running your business from your phone—booking clients, sending invoices, managing your Airbnb listing—you're relying on accounts that could already be in someone else's hands. You just don't know it yet.
