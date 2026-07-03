@@ -1,8 +1,8 @@
- ---
-  title: "Phishing Scams Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-04"
-  image: "/assets/images/phishing-scams-targeting-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "Phishing Scams Targeting Sunshine Coast Small Businesses"
+date: "2026-07-04"
+image: "/assets/images/phishing-scams-targeting-sunshine-coast-small-businesses.png"
+---
   # Phishing Scams Are Getting Smarter — Is Your Sunshine Coast Business Ready?
 
 If you run a small business on the Sunshine Coast, you're juggling a hundred things at once. The last thing on your mind is probably cybersecurity. But here's something worth knowing: phishing scams — those dodgy emails and texts trying to trick you into handing over passwords or banking details — are getting much more sophisticated, and they're increasingly targeting sole traders and micro-businesses just like yours.
