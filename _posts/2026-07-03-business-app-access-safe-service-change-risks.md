@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Business App Access Safe? Service Change Risks"
-  date: "2026-07-03"
-  image: "/assets/images/business-app-access-safe-service-change-risks.png"
-  ---
+---
+title: "Is Your Business App Access Safe? Service Change Risks"
+date: "2026-07-03"
+image: "/assets/images/business-app-access-safe-service-change-risks.png"
+---
   # Is Your Business App Access Safe? What Sunshine Coast Small Businesses Need to Know About Service Changes
 
 If you run your business from your phone—managing bookings, invoicing clients, or coordinating jobs—you've probably noticed how often the apps and services you rely on change their rules. One day everything works perfectly, the next you're locked out or forced onto a different plan. For small business owners on the Sunshine Coast, these disruptions aren't just annoying—they can expose serious gaps in your cyber security.
