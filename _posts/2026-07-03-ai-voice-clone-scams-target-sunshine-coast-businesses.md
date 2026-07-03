@@ -1,8 +1,8 @@
- ---
-  title: "AI Voice Clone Scams Target Sunshine Coast Business Owners"
-  date: "2026-07-03"
-  image: "/assets/images/ai-voice-clone-scams-target-sunshine-coast-businesses.png"
-  ---
+---
+title: "AI Voice Clone Scams Target Sunshine Coast Business Owners"
+date: "2026-07-03"
+image: "/assets/images/ai-voice-clone-scams-target-sunshine-coast-businesses.png"
+---
   # Scammers Are Now Using AI Voice Clones to Target Australian Business Owners
 
 ## What's Happening Right Now
