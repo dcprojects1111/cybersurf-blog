@@ -1,8 +1,8 @@
- ---
-  title: "QuickBooks, Xero & MYOB Users Targeted by Cybercriminals"
-  date: "2026-07-04"
-  image: "/assets/images/quickbooks-xero-myob-users-targeted-by-cybercriminals.png"
-  ---
+---
+title: "QuickBooks, Xero & MYOB Users Targeted by Cybercriminals"
+date: "2026-07-04"
+image: "/assets/images/quickbooks-xero-myob-users-targeted-by-cybercriminals.png"
+---
   # Cybercriminals Are Targeting QuickBooks, Xero and MYOB Users – Is Your Business at Risk?
 
 If you're running a small business on the Sunshine Coast, there's a good chance you're using cloud accounting software like QuickBooks, Xero, or MYOB to manage your invoices, track expenses, and stay on top of the books. These platforms have made life so much easier for sole traders and micro-businesses – but they've also become a major target for cybercriminals.
