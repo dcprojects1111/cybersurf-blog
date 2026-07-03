@@ -1,8 +1,8 @@
- ---
-  title: "Why Old Passwords Are a Ticking Time Bomb for Your Business"
-  date: "2026-07-03"
-  image: "/assets/images/old-passwords-ticking-time-bomb-small-business.png"
-  ---
+---
+title: "Why Old Passwords Are a Ticking Time Bomb for Your Business"
+date: "2026-07-03"
+image: "/assets/images/old-passwords-ticking-time-bomb-small-business.png"
+---
   # Sunshine Coast Business Owners: Why Your Old Passwords Are a Ticking Time Bomb
 
 If you're running a small business on the Sunshine Coast—whether you're a tradie, café owner, or accommodation host—you've probably reused the same password across a few different apps. Maybe it's your birthday plus your dog's name, or "Password123" with an exclamation mark to make it "secure."
