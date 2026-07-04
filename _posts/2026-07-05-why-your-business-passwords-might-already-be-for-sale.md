@@ -1,8 +1,8 @@
- ---
-  title: "Why Your Business Passwords Might Already Be for Sale"
-  date: "2026-07-05"
-  image: "/assets/images/why-your-business-passwords-might-already-be-for-sale.png"
-  ---
+---
+title: "Why Your Business Passwords Might Already Be for Sale"
+date: "2026-07-05"
+image: "/assets/images/why-your-business-passwords-might-already-be-for-sale.png"
+---
   # Why Your Business Passwords Might Already Be for Sale (And What Sunshine Coast Small Business Owners Need to Know)
 
 If you're running a small business on the Sunshine Coast — whether that's a landscaping crew, a beauty salon, or a short-stay rental — there's a good chance you're juggling dozens of passwords every day. Square for payments, Xero for accounting, Instagram for marketing, your booking system, supplier portals... the list goes on.
