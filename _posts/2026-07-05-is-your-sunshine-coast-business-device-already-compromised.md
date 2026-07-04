@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Sunshine Coast Business Device Already Compromised?"
-  date: "2026-07-05"
-  image: "/assets/images/is-your-sunshine-coast-business-device-already-compromised.png"
-  ---
+---
+title: "Is Your Sunshine Coast Business Device Already Compromised?"
+date: "2026-07-05"
+image: "/assets/images/is-your-sunshine-coast-business-device-already-compromised.png"
+---
   # Major Cyber Network Taken Down—But Is Your Business Device Already Compromised?
 
 You might have missed it in the news, but Google just helped shut down a massive cyber operation called NetNut that had quietly infected more than 2 million devices worldwide. If you're running a small business on the Sunshine Coast and doing everything from your phone or tablet, this story should grab your attention—because devices just like yours were caught up in it.
