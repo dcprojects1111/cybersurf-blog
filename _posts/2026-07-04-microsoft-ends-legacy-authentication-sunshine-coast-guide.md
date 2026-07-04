@@ -1,8 +1,8 @@
- ---
-  title: "Microsoft Ends Legacy Authentication: Sunshine Coast Guide"
-  date: "2026-07-04"
-  image: "/assets/images/microsoft-ends-legacy-authentication-sunshine-coast-guide.png"
-  ---
+---
+title: "Microsoft Ends Legacy Authentication: Sunshine Coast Guide"
+date: "2026-07-04"
+image: "/assets/images/microsoft-ends-legacy-authentication-sunshine-coast-guide.png"
+---
   # Microsoft Deprecates Legacy Authentication: What It Means for Your Sunshine Coast Small Business
 
 ## The Change That's Already Happening
