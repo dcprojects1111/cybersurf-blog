@@ -1,8 +1,8 @@
- ---
-  title: "AI-Powered Ransomware Targets Sunshine Coast Small Business"
-  date: "2026-07-05"
-  image: "/assets/images/ai-powered-ransomware-targets-sunshine-coast-small-business.png"
-  ---
+---
+title: "AI-Powered Ransomware Targets Sunshine Coast Small Business"
+date: "2026-07-05"
+image: "/assets/images/ai-powered-ransomware-targets-sunshine-coast-small-business.png"
+---
   # AI-Powered Ransomware: What Sunshine Coast Business Owners Need to Know
 
 If you're running a small business on the Sunshine Coast—whether you're managing holiday rentals in Mooloolaba, running a salon in Maroochydore, or operating a trade business across the region—there's a new cyber threat you should be aware of. And this one's different from anything we've seen before.
