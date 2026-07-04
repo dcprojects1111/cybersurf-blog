@@ -1,8 +1,8 @@
- ---
-  title: "Mac Users Aren't Safe: Sunshine Coast Businesses at Risk"
-  date: "2026-07-05"
-  image: "/assets/images/mac-users-arent-safe-sunshine-coast-businesses-at-risk.png"
-  ---
+---
+title: "Mac Users Aren't Safe: Sunshine Coast Businesses at Risk"
+date: "2026-07-05"
+image: "/assets/images/mac-users-arent-safe-sunshine-coast-businesses-at-risk.png"
+---
   # Mac Users Aren't Safe Either: Why Sunshine Coast Business Owners Need to Rethink "Apple Security"
 
 If you run your business from a MacBook or iPhone and think you're automatically protected from cyber threats, it's time for a reality check. Two recent cyberattack campaigns are proving that even Apple users are squarely in the crosshairs — and the hackers aren't breaking in through clever code. They're tricking you into opening the door yourself.
