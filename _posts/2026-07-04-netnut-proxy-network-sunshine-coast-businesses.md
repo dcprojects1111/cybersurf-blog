@@ -1,8 +1,8 @@
- ---
-  title: "NetNut Proxy Network: What Sunshine Coast Businesses Should Know"
-  date: "2026-07-04"
-  image: "/assets/images/netnut-proxy-network-sunshine-coast-businesses.png"
-  ---
+---
+title: "NetNut Proxy Network: What Sunshine Coast Businesses Should Know"
+date: "2026-07-04"
+image: "/assets/images/netnut-proxy-network-sunshine-coast-businesses.png"
+---
   # Massive Proxy Network Disrupted: What Sunshine Coast Business Owners Need to Know
 
 If you run your business from your phone — managing bookings, sending quotes, or processing payments — there's something you need to know about a cyber threat that was just shut down this week.
