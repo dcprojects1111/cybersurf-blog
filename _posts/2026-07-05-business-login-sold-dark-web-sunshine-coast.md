@@ -1,8 +1,8 @@
- ---
-  title: "Has Your Business Login Been Sold on the Dark Web?"
-  date: "2026-07-05"
-  image: "/assets/images/business-login-sold-dark-web-sunshine-coast.png"
-  ---
+---
+title: "Has Your Business Login Been Sold on the Dark Web?"
+date: "2026-07-05"
+image: "/assets/images/business-login-sold-dark-web-sunshine-coast.png"
+---
   # Has Your Business Login Been Sold on the Dark Web? What Sunshine Coast Small Business Owners Need to Know
 
 If you run a small business on the Sunshine Coast—whether you're an electrician, a café owner, or managing a couple of holiday rentals—there's a good chance you've never given much thought to cyber security. You're busy enough keeping customers happy and the bills paid. But here's something that might surprise you: right now, someone could be selling access to your business accounts on the dark web, and you'd have no idea.
