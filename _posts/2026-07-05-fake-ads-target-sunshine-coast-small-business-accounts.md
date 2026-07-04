@@ -1,8 +1,8 @@
- ---
-  title: "Fake Ads Target Sunshine Coast Small Business Accounts"
-  date: "2026-07-05"
-  image: "/assets/images/fake-ads-target-sunshine-coast-small-business-accounts.png"
-  ---
+---
+title: "Fake Ads Target Sunshine Coast Small Business Accounts"
+date: "2026-07-05"
+image: "/assets/images/fake-ads-target-sunshine-coast-small-business-accounts.png"
+---
   # Scammers Are Using Fake Ads and Consent Tricks to Break Into Business Accounts
 
 If you're running your plumbing business, café, or Airbnb from your phone and laptop, you need to know about two sneaky new scams doing the rounds right now. They don't rely on complicated hacking — they're simply tricking busy business owners into handing over access without realising it.
