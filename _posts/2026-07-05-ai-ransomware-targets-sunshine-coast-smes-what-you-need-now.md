@@ -1,8 +1,8 @@
- ---
-  title: "AI Ransomware Targets Sunshine Coast SMEs: What You Need Now"
-  date: "2026-07-05"
-  image: "/assets/images/ai-ransomware-targets-sunshine-coast-smes-what-you-need-now.png"
-  ---
+---
+title: "AI Ransomware Targets Sunshine Coast SMEs: What You Need Now"
+date: "2026-07-05"
+image: "/assets/images/ai-ransomware-targets-sunshine-coast-smes-what-you-need-now.png"
+---
   # AI-Powered Ransomware Hits Businesses: What Sunshine Coast SMEs Need to Know
 
 If you run a small business on the Sunshine Coast, you've probably heard about AI making life easier—smarter booking systems, automated customer replies, that sort of thing. But here's something you mightn't have considered: criminals are now using the same technology to attack businesses like yours, faster and more efficiently than ever before.
