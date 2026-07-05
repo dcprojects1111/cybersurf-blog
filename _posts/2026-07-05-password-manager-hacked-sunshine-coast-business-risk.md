@@ -1,8 +1,8 @@
- ---
-  title: "Password Manager Hacked: Sunshine Coast Business Owners at Risk"
-  date: "2026-07-05"
-  image: "/assets/images/password-manager-hacked-sunshine-coast-business-risk.png"
-  ---
+---
+title: "Password Manager Hacked: Sunshine Coast Business Owners at Risk"
+date: "2026-07-05"
+image: "/assets/images/password-manager-hacked-sunshine-coast-business-risk.png"
+---
   # Popular Business Password Manager Hacked — Is Your Sunshine Coast Small Business at Risk?
 
 If you run your small business from your phone or laptop — managing invoices, bookings, supplier logins, and banking — you've probably got dozens of passwords floating around. And if you're like most sole traders and micro-business owners on the Sunshine Coast, you've either reused the same password everywhere, or you've started using a password manager to keep track of them all.
