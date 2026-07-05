@@ -1,8 +1,8 @@
- ---
-  title: "Security Flaw Threatens Sunshine Coast Small Businesses"
-  date: "2026-07-06"
-  image: "/assets/images/security-flaw-threatens-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "Security Flaw Threatens Sunshine Coast Small Businesses"
+date: "2026-07-06"
+image: "/assets/images/security-flaw-threatens-sunshine-coast-small-businesses.png"
+---
   # Critical Security Flaw in Popular Business Software Puts Sunshine Coast Small Businesses at Risk
 
 If you're running your business from your phone or laptop on the Sunshine Coast, there's a security issue affecting thousands of Australian small businesses right now — and you might not even know you're vulnerable.
