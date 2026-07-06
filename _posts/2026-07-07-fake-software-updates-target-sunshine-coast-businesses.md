@@ -1,8 +1,8 @@
- ---
-  title: "Fake Software Updates Target Sunshine Coast Small Businesses"
-  date: "2026-07-07"
-  image: "/assets/images/fake-software-updates-target-sunshine-coast-businesses.png"
-  ---
+---
+title: "Fake Software Updates Target Sunshine Coast Small Businesses"
+date: "2026-07-07"
+image: "/assets/images/fake-software-updates-target-sunshine-coast-businesses.png"
+---
   # Cybercriminals Are Targeting Small Businesses Through Fake Software Updates – Here's What Sunshine Coast Owners Need to Know
 
 If you run your business from your phone or laptop – whether you're a tradie, café owner, or Airbnb host on the Sunshine Coast – there's a sneaky new scam you need to know about. Cybercriminals are sending fake software update notifications that look completely legitimate, and they're catching business owners off guard.
