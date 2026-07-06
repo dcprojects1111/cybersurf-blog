@@ -1,8 +1,8 @@
- ---
-  title: "Adobe ColdFusion Flaw Under Attack: Sunshine Coast SME Guide"
-  date: "2026-07-07"
-  image: "/assets/images/adobe-coldfusion-flaw-sunshine-coast-sme-guide.png"
-  ---
+---
+title: "Adobe ColdFusion Flaw Under Attack: Sunshine Coast SME Guide"
+date: "2026-07-07"
+image: "/assets/images/adobe-coldfusion-flaw-sunshine-coast-sme-guide.png"
+---
   # Critical Adobe ColdFusion Flaw Now Under Attack: What Sunshine Coast Business Owners Need to Know
 
 If you run a small business on the Sunshine Coast and use a website or online booking system, there's a security issue making headlines this week that deserves your attention—even if you've never heard of Adobe ColdFusion.
