@@ -1,8 +1,8 @@
- ---
-  title: "WhatsApp Usernames: Privacy Risk for Sunshine Coast Businesses"
-  date: "2026-07-07"
-  image: "/assets/images/whatsapp-usernames-privacy-risk-sunshine-coast-businesses.png"
-  ---
+---
+title: "WhatsApp Usernames: Privacy Risk for Sunshine Coast Businesses"
+date: "2026-07-07"
+image: "/assets/images/whatsapp-usernames-privacy-risk-sunshine-coast-businesses.png"
+---
   ## WhatsApp's New Usernames: What Sunshine Coast Business Owners Need to Know
 
 If you're running a small business on the Sunshine Coast, chances are WhatsApp is one of your main tools for staying in touch with customers, suppliers, and maybe even your team. Whether you're confirming a plumbing job in Noosa, sending paint colour options to a client in Maroochydore, or coordinating cleaners between Airbnb bookings, WhatsApp keeps things moving.
