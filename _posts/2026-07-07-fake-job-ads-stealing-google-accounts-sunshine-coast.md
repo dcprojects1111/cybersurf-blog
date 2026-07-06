@@ -1,8 +1,8 @@
- ---
-  title: "Fake Job Ads Stealing Google Accounts on Sunshine Coast"
-  date: "2026-07-07"
-  image: "/assets/images/fake-job-ads-stealing-google-accounts-sunshine-coast.png"
-  ---
+---
+title: "Fake Job Ads Stealing Google Accounts on Sunshine Coast"
+date: "2026-07-07"
+image: "/assets/images/fake-job-ads-stealing-google-accounts-sunshine-coast.png"
+---
   # Fake Job Ads Are Now Being Used to Steal Google Accounts on the Sunshine Coast
 
 If you're running a small business on the Sunshine Coast and occasionally browse LinkedIn or job boards—even just to keep an eye on what's out there or maybe hire someone down the track—there's a sophisticated scam you need to know about.
