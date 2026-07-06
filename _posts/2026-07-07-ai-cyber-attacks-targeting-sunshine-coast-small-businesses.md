@@ -1,8 +1,8 @@
- ---
-  title: "AI Cyber Attacks Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-07"
-  image: "/assets/images/ai-cyber-attacks-targeting-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "AI Cyber Attacks Targeting Sunshine Coast Small Businesses"
+date: "2026-07-07"
+image: "/assets/images/ai-cyber-attacks-targeting-sunshine-coast-small-businesses.png"
+---
   # Cyber Criminals Are Now Using AI to Target Australian Small Businesses – Here's What Sunshine Coast Owners Need to Know
 
 If you run a small business on the Sunshine Coast, you're probably juggling a dozen things right now – managing bookings, chasing invoices, ordering stock, or coordinating your team. Cybersecurity? It's likely not even on your radar.
