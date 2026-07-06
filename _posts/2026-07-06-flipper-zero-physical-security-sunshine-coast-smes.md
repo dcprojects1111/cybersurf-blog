@@ -1,8 +1,8 @@
- ---
-  title: "Flipper Zero & Physical Security for Sunshine Coast SMEs"
-  date: "2026-07-06"
-  image: "/assets/images/flipper-zero-physical-security-sunshine-coast-smes.png"
-  ---
+---
+title: "Flipper Zero & Physical Security for Sunshine Coast SMEs"
+date: "2026-07-06"
+image: "/assets/images/flipper-zero-physical-security-sunshine-coast-smes.png"
+---
   # Flipper Zero Development News: What Sunshine Coast Small Businesses Need to Know
 
 If you've been following tech news lately, you might have heard about the Flipper Zero — a small, pocket-sized device that's been making waves in both security and hacking circles. Recent announcements about changes to its development model have caught the attention of cyber security professionals worldwide. But what does this mean for your small business here on the Sunshine Coast?
