@@ -1,8 +1,8 @@
- ---
-  title: "Business Email Compromise: Protect Your Sunshine Coast Business"
-  date: "2026-07-06"
-  image: "/assets/images/business-email-compromise-protect-sunshine-coast-business.png"
-  ---
+---
+title: "Business Email Compromise: Protect Your Sunshine Coast Business"
+date: "2026-07-06"
+image: "/assets/images/business-email-compromise-protect-sunshine-coast-business.png"
+---
   # Business Email Compromise: The $300,000 Scam Targeting Sunshine Coast Small Businesses
 
 If you're running a small business on the Sunshine Coast and someone sends you an email that looks like it's from your accountant, your supplier, or even a tradie you've worked with before — how do you know it's really them?
