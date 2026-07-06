@@ -1,8 +1,8 @@
- ---
-  title: "How to Spot AI-Generated Fake Images Used in Scams"
-  date: "2026-07-07"
-  image: "/assets/images/spot-ai-generated-fake-images-scams.png"
-  ---
+---
+title: "How to Spot AI-Generated Fake Images Used in Scams"
+date: "2026-07-07"
+image: "/assets/images/spot-ai-generated-fake-images-scams.png"
+---
   # How Sunshine Coast Business Owners Can Spot AI-Generated Fake Images Used in Scams
 
 If you've been running your Sunshine Coast business for any length of time, you've probably noticed something: scammers are getting better. Much better. And one of their newest tricks is using artificial intelligence to create incredibly realistic fake images that make their cons more convincing.
