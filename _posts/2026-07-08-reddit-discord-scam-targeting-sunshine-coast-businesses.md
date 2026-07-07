@@ -1,8 +1,8 @@
- ---
-  title: "Reddit & Discord Scam Targeting Sunshine Coast Businesses"
-  date: "2026-07-08"
-  image: "/assets/images/reddit-discord-scam-targeting-sunshine-coast-businesses.png"
-  ---
+---
+title: "Reddit & Discord Scam Targeting Sunshine Coast Businesses"
+date: "2026-07-08"
+image: "/assets/images/reddit-discord-scam-targeting-sunshine-coast-businesses.png"
+---
   # Reddit and Discord Scam Hitting Local Sunshine Coast Businesses: What You Need to Know
 
 If you're running your Sunshine Coast business using Discord to coordinate with suppliers or Reddit communities to promote your services, you need to know about a clever new scam that's locking business owners out of their accounts.
