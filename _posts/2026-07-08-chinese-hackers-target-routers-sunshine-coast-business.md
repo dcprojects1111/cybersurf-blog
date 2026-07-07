@@ -1,8 +1,8 @@
- ---
-  title: "Chinese Hackers Target Routers: Sunshine Coast Business Guide"
-  date: "2026-07-08"
-  image: "/assets/images/chinese-hackers-target-routers-sunshine-coast-business.png"
-  ---
+---
+title: "Chinese Hackers Target Routers: Sunshine Coast Business Guide"
+date: "2026-07-08"
+image: "/assets/images/chinese-hackers-target-routers-sunshine-coast-business.png"
+---
   # Chinese Hackers Targeting Routers: What Sunshine Coast Business Owners Need to Know
 
 If your business relies on a router to run Wi-Fi — and let's face it, every business does — there's a growing cyber security threat you need to understand. Chinese hackers have developed sophisticated malware specifically designed to take over internet routers, turning them into relay points for criminal activity. And small businesses on the Sunshine Coast are exactly the kind of target they're looking for.
