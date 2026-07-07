@@ -1,8 +1,8 @@
- ---
-  title: "Email Scams Target Sunshine Coast Small Businesses"
-  date: "2026-07-08"
-  image: "/assets/images/email-scams-target-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "Email Scams Target Sunshine Coast Small Businesses"
+date: "2026-07-08"
+image: "/assets/images/email-scams-target-sunshine-coast-small-businesses.png"
+---
   # Email Scams Are Getting Smarter — Is Your Sunshine Coast Business Ready?
 
 If you're running a small business on the Sunshine Coast, chances are your email inbox is the engine room of everything you do. Quotes, bookings, invoices, supplier orders — it all flows through your phone or laptop. But here's something that doesn't get talked about enough: email-based scams have evolved, and the old advice about "just don't click dodgy links" isn't enough anymore.
