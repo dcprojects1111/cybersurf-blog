@@ -1,8 +1,8 @@
- ---
-  title: "Job Scam Phishing Attack Targets Sunshine Coast Businesses"
-  date: "2026-07-07"
-  image: "/assets/images/job-scam-phishing-attack-sunshine-coast-businesses.png"
-  ---
+---
+title: "Job Scam Phishing Attack Targets Sunshine Coast Businesses"
+date: "2026-07-07"
+image: "/assets/images/job-scam-phishing-attack-sunshine-coast-businesses.png"
+---
   # Job Scam Phishing Attack: Why Sunshine Coast Business Owners Need to Pay Attention
 
 If you're running a small business on the Sunshine Coast, chances are you wear a lot of hats. Marketing might be one of them—even if it's just posting on Instagram or replying to Google reviews. But a sophisticated new scam doing the rounds should have every business owner on alert, especially if you or your staff ever look at job ads or respond to recruitment messages.
