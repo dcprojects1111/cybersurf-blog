@@ -1,8 +1,8 @@
- ---
-  title: "Hidden AI Tracking: Sunshine Coast Business Cyber Risk"
-  date: "2026-07-08"
-  image: "/assets/images/hidden-ai-tracking-sunshine-coast-business-cyber-risk.png"
-  ---
+---
+title: "Hidden AI Tracking: Sunshine Coast Business Cyber Risk"
+date: "2026-07-08"
+image: "/assets/images/hidden-ai-tracking-sunshine-coast-business-cyber-risk.png"
+---
   **Hidden Tracking Code in AI Tools: What Sunshine Coast Business Owners Need to Know**
 
 If you're running a small business on the Sunshine Coast and starting to use AI tools like ChatGPT or Claude to help write emails, create social media posts, or draft quotes, you need to hear about this latest development. Even the most trusted tech companies are embedding hidden tracking into their systems—and it's happening without most users realising it.
