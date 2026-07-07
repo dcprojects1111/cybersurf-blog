@@ -1,8 +1,8 @@
- ---
-  title: "Old Software Vulnerabilities Targeting Sunshine Coast Businesses"
-  date: "2026-07-08"
-  image: "/assets/images/old-software-vulnerabilities-targeting-sunshine-coast-businesses.png"
-  ---
+---
+title: "Old Software Vulnerabilities Targeting Sunshine Coast Businesses"
+date: "2026-07-08"
+image: "/assets/images/old-software-vulnerabilities-targeting-sunshine-coast-businesses.png"
+---
   # Cybercriminals Are Exploiting Old Vulnerabilities—Is Your Sunshine Coast Business at Risk?
 
 If you're running a small business on the Sunshine Coast, you've probably got enough on your plate without worrying about hackers. But here's something worth knowing: cybercriminals aren't just targeting big corporations anymore. They're increasingly going after sole traders and micro-businesses—and they're doing it by exploiting software vulnerabilities that most of us don't even know exist.
