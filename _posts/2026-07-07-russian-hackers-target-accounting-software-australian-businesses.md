@@ -1,8 +1,8 @@
- ---
-  title: "Russian Hackers Target Accounting Software Used by AU Businesses"
-  date: "2026-07-07"
-  image: "/assets/images/russian-hackers-target-accounting-software-australian-businesses.png"
-  ---
+---
+title: "Russian Hackers Target Accounting Software Used by AU Businesses"
+date: "2026-07-07"
+image: "/assets/images/russian-hackers-target-accounting-software-australian-businesses.png"
+---
   # Russian Hacking Group Targets Accounting Software Used by Thousands of Small Businesses
 
 ## What's happened?
