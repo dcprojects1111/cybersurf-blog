@@ -1,8 +1,8 @@
- ---
-  title: "Mount Royal Breach: Sunshine Coast Small Businesses at Risk"
-  date: "2026-07-09"
-  image: "/assets/images/mount-royal-breach-sunshine-coast-businesses-at-risk.png"
-  ---
+---
+title: "Mount Royal Breach: Sunshine Coast Small Businesses at Risk"
+date: "2026-07-09"
+image: "/assets/images/mount-royal-breach-sunshine-coast-businesses-at-risk.png"
+---
   # Mount Royal University Breach Shows Why Even Small Sunshine Coast Businesses Are in the Crosshairs
 
 ## Universities Aren't the Only Targets Anymore
