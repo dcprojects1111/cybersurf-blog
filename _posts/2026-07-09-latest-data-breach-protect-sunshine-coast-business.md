@@ -1,8 +1,8 @@
- ---
-  title: "Latest Data Breach: Protect Your Sunshine Coast Business"
-  date: "2026-07-09"
-  image: "/assets/images/latest-data-breach-protect-sunshine-coast-business.png"
-  ---
+---
+title: "Latest Data Breach: Protect Your Sunshine Coast Business"
+date: "2026-07-09"
+image: "/assets/images/latest-data-breach-protect-sunshine-coast-business.png"
+---
   # Protect Your Sunshine Coast Business: What the Latest Data Breach Means for You
 
 If you run a small business on the Sunshine Coast, you've probably got a million things on your plate. Whether you're managing bookings at your salon, coordinating jobs from your ute, or keeping your Airbnb guests happy, cybersecurity probably isn't top of mind. But a recent major data breach is a wake-up call for all of us – and it's closer to home than you might think.
