@@ -1,8 +1,8 @@
- ---
-  title: "DuckDuckGo Blocks YouTube Ads: Privacy Risks for SC Businesses"
-  date: "2026-07-09"
-  image: "/assets/images/duckduckgo-blocks-youtube-ads-privacy-risks-sunshine-coast.png"
-  ---
+---
+title: "DuckDuckGo Blocks YouTube Ads: Privacy Risks for SC Businesses"
+date: "2026-07-09"
+image: "/assets/images/duckduckgo-blocks-youtube-ads-privacy-risks-sunshine-coast.png"
+---
   # DuckDuckGo Now Blocks YouTube Ads – But What Does This Mean for Your Sunshine Coast Business?
 
 If you've been using your phone or laptop to run your business lately, you've probably noticed YouTube getting more aggressive with ads. The good news? DuckDuckGo, a privacy-focused web browser, has just announced it can now block most of those annoying video ads – including the ones that pop up before and during videos.
