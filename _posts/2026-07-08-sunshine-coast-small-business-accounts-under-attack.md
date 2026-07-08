@@ -1,8 +1,8 @@
- ---
-  title: "Why Sunshine Coast Small Business Accounts Are Under Attack"
-  date: "2026-07-08"
-  image: "/assets/images/sunshine-coast-small-business-accounts-under-attack.png"
-  ---
+---
+title: "Why Sunshine Coast Small Business Accounts Are Under Attack"
+date: "2026-07-08"
+image: "/assets/images/sunshine-coast-small-business-accounts-under-attack.png"
+---
   # Sunshine Coast Small Businesses: Why Your Online Accounts Are Under Attack Right Now
 
 If you're running your business from your phone—managing bookings, sending invoices, or coordinating jobs—there's something you need to know. Cybercriminals are actively targeting small business owners just like you, and they're getting smarter every day.
