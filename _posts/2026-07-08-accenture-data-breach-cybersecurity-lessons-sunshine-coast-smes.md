@@ -1,8 +1,8 @@
- ---
-  title: "Accenture Data Breach: Cybersecurity Lessons for Sunshine Coast SMEs"
-  date: "2026-07-08"
-  image: "/assets/images/accenture-data-breach-cybersecurity-lessons-sunshine-coast-smes.png"
-  ---
+---
+title: "Accenture Data Breach: Cybersecurity Lessons for Sunshine Coast SMEs"
+date: "2026-07-08"
+image: "/assets/images/accenture-data-breach-cybersecurity-lessons-sunshine-coast-smes.png"
+---
   # Major IT Giant Accenture Confirms Data Breach — What Sunshine Coast Small Businesses Need to Know
 
 When one of the world's largest IT consulting firms admits they've been hacked, it's a wake-up call for every business owner — including those of us here on the Sunshine Coast running smaller operations. Accenture, a company that advises major corporations on cybersecurity, recently confirmed hackers stole 35 GB of their data and offered it for sale online. If a tech giant with unlimited resources can be breached, what does that mean for your local business?
