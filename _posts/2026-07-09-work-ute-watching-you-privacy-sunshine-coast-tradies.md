@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Work Ute Watching You? Privacy for Sunshine Coast Tradies"
-  date: "2026-07-09"
-  image: "/assets/images/work-ute-watching-you-privacy-sunshine-coast-tradies.png"
-  ---
+---
+title: "Is Your Work Ute Watching You? Privacy for Sunshine Coast Tradies"
+date: "2026-07-09"
+image: "/assets/images/work-ute-watching-you-privacy-sunshine-coast-tradies.png"
+---
   # Is Your Work Ute Watching You? What Sunshine Coast Tradies Need to Know About Vehicle Tech and Privacy
 
 If you've bought a new work vehicle lately—or you're thinking about upgrading your ute or van—there's something you might not have noticed buried in the manual: cameras and sensors that monitor you while you drive.
