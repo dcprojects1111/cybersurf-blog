@@ -1,8 +1,8 @@
- ---
-  title: "Microsoft RoguePlanet Flaw: Sunshine Coast Business Guide"
-  date: "2026-07-09"
-  image: "/assets/images/microsoft-rogueplanet-flaw-sunshine-coast-business-guide.png"
-  ---
+---
+title: "Microsoft RoguePlanet Flaw: Sunshine Coast Business Guide"
+date: "2026-07-09"
+image: "/assets/images/microsoft-rogueplanet-flaw-sunshine-coast-business-guide.png"
+---
   # Microsoft Patches Critical Security Flaw: What Sunshine Coast Business Owners Need to Know
 
 If you're running your business from your phone or laptop on the Sunshine Coast — whether you're managing bookings for your holiday rental, sending quotes from job sites, or keeping track of client appointments — there's a security update you need to know about.
