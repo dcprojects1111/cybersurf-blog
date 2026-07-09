@@ -1,8 +1,8 @@
- ---
-  title: "Data Breach Protection for Sunshine Coast Small Businesses"
-  date: "2026-07-09"
-  image: "/assets/images/data-breach-protection-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "Data Breach Protection for Sunshine Coast Small Businesses"
+date: "2026-07-09"
+image: "/assets/images/data-breach-protection-sunshine-coast-small-businesses.png"
+---
   # Another Massive Data Breach: What Sunshine Coast Small Business Owners Need to Know
 
 If you run a small business on the Sunshine Coast, there's a good chance you've never lost sleep over cyber security. You're busy enough keeping clients happy, managing bookings, and chasing invoices. But a recent wave of data breaches affecting major companies means it's time to take a closer look at your own digital security — even if you're a one-person operation running everything from your phone.
