@@ -1,8 +1,8 @@
- ---
-  title: "Vehicle Cameras & Cyber Risk for Sunshine Coast Business Owners"
-  date: "2026-07-09"
-  image: "/assets/images/vehicle-cameras-cyber-risk-sunshine-coast-business.png"
-  ---
+---
+title: "Vehicle Cameras & Cyber Risk for Sunshine Coast Business Owners"
+date: "2026-07-09"
+image: "/assets/images/vehicle-cameras-cyber-risk-sunshine-coast-business.png"
+---
   # Is Your Business Vehicle Watching You? What Sunshine Coast Small Business Owners Need to Know
 
 If you're running a small business on the Sunshine Coast and use a vehicle for work—whether you're a plumber heading to jobs in Buderim, a gardener servicing properties around Noosa, or an electrician covering the Coast from Caloundra to Coolum—there's a new technology rolling out in cars that you need to understand.
