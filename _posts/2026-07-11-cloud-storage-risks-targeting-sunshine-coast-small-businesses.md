@@ -1,8 +1,8 @@
- ---
-  title: "Cloud Storage Risks Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-11"
-  image: "/assets/images/cloud-storage-risks-targeting-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "Cloud Storage Risks Targeting Sunshine Coast Small Businesses"
+date: "2026-07-11"
+image: "/assets/images/cloud-storage-risks-targeting-sunshine-coast-small-businesses.png"
+---
   # Cyber Criminals Are Targeting Small Businesses Through Cloud Storage Weaknesses
 
 If you're running a tradie business, salon, café, or Airbnb on the Sunshine Coast, chances are you're using cloud storage like Google Drive, Dropbox, or OneDrive every single day. You might store client details, invoices, quotes, before-and-after photos, or booking information there. It's convenient, accessible from your phone, and it just works.
