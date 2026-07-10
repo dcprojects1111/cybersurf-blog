@@ -1,8 +1,8 @@
- ---
-  title: "World Cup Crypto Scams: Warning for Sunshine Coast Business"
-  date: "2026-07-10"
-  image: "/assets/images/world-cup-crypto-scams-warning-sunshine-coast-business.png"
-  ---
+---
+title: "World Cup Crypto Scams: Warning for Sunshine Coast Business"
+date: "2026-07-10"
+image: "/assets/images/world-cup-crypto-scams-warning-sunshine-coast-business.png"
+---
   # World Cup Crypto Scams: A Warning for Sunshine Coast Small Business Owners
 
 If you're running a small business on the Sunshine Coast, you've probably noticed crypto and digital currencies popping up everywhere — from customer payment requests to sponsored posts on your Facebook feed. And while most of us scroll past the hype, there's a growing scam trend that's catching out busy business owners who are simply trying to make a quick decision during their lunch break.
