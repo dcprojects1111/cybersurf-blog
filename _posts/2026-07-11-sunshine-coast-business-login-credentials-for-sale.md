@@ -1,8 +1,8 @@
- ---
-  title: "Why Your Sunshine Coast Business Login Credentials Are For Sale"
-  date: "2026-07-11"
-  image: "/assets/images/sunshine-coast-business-login-credentials-for-sale.png"
-  ---
+---
+title: "Why Your Sunshine Coast Business Login Credentials Are For Sale"
+date: "2026-07-11"
+image: "/assets/images/sunshine-coast-business-login-credentials-for-sale.png"
+---
   # Sunshine Coast Small Businesses: Why Your Login Credentials Are Being Sold Right Now
 
 If you're running a small business on the Sunshine Coast—whether you're a tradie, salon owner, or short-stay accommodation host—there's something you need to know. While you're focused on serving customers and growing your business, cybercriminals are quietly trading stolen login credentials on the dark web. And there's a good chance yours are among them.
