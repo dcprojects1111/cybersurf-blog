@@ -1,8 +1,8 @@
- ---
-  title: "OpenMandriva Sabotage: Insider Threats for Sunshine Coast SMEs"
-  date: "2026-07-10"
-  image: "/assets/images/openmandriva-sabotage-insider-threats-sunshine-coast-smes.png"
-  ---
+---
+title: "OpenMandriva Sabotage: Insider Threats for Sunshine Coast SMEs"
+date: "2026-07-10"
+image: "/assets/images/openmandriva-sabotage-insider-threats-sunshine-coast-smes.png"
+---
   # OpenMandriva Sabotage: What a Linux Project Meltdown Means for Your Sunshine Coast Business
 
 ## When Trusted Insiders Turn Bad
