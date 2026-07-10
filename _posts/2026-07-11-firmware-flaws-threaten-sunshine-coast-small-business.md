@@ -1,8 +1,8 @@
- ---
-  title: "Firmware Flaws Threaten Sunshine Coast Small Business Devices"
-  date: "2026-07-11"
-  image: "/assets/images/firmware-flaws-threaten-sunshine-coast-small-business.png"
-  ---
+---
+title: "Firmware Flaws Threaten Sunshine Coast Small Business Devices"
+date: "2026-07-11"
+image: "/assets/images/firmware-flaws-threaten-sunshine-coast-small-business.png"
+---
   # Hidden Firmware Flaws Could Let Hackers Take Control Before Your Device Even Starts
 
 If you run a small business on the Sunshine Coast — whether you're managing Airbnb bookings, invoicing clients from a tradie app, or running your salon's appointment system — you probably assume your phone or tablet is secure once you've set a password. But new security flaws discovered in the hidden "firmware" that runs before your device even starts up could change everything.
