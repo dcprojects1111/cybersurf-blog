@@ -1,8 +1,8 @@
- ---
-  title: "AI Agents Create Hidden Cyber Risks for Sunshine Coast SMEs"
-  date: "2026-07-11"
-  image: "/assets/images/ai-agents-hidden-cyber-risks-sunshine-coast-smes.png"
-  ---
+---
+title: "AI Agents Create Hidden Cyber Risks for Sunshine Coast SMEs"
+date: "2026-07-11"
+image: "/assets/images/ai-agents-hidden-cyber-risks-sunshine-coast-smes.png"
+---
   # AI Agents Are Creating a Hidden Cybersecurity Risk for Sunshine Coast Small Businesses
 
 If you run a small business on the Sunshine Coast, chances are you're already using artificial intelligence without even realising it. That chatbot on your website? AI. The smart scheduling tool that books your appointments? AI-powered. The automated invoice reminders from your accounting software? You guessed it — AI.
