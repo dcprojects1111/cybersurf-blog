@@ -1,8 +1,8 @@
- ---
-  title: "Russian Hackers Target Aussie Small Businesses with Password Spray"
-  date: "2026-07-10"
-  image: "/assets/images/russian-hackers-target-aussie-small-businesses-password-spray.png"
-  ---
+---
+title: "Russian Hackers Target Aussie Small Businesses with Password Spray"
+date: "2026-07-10"
+image: "/assets/images/russian-hackers-target-aussie-small-businesses-password-spray.png"
+---
   # Russian Hackers Target Aussie Small Businesses with Password Spray Attacks
 
 ## What's happening with cyber security on the Sunshine Coast right now
