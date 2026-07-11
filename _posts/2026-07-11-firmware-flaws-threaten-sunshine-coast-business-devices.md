@@ -1,8 +1,8 @@
- ---
-  title: "Firmware Flaws Threaten Sunshine Coast Business Devices"
-  date: "2026-07-11"
-  image: "/assets/images/firmware-flaws-threaten-sunshine-coast-business-devices.png"
-  ---
+---
+title: "Firmware Flaws Threaten Sunshine Coast Business Devices"
+date: "2026-07-11"
+image: "/assets/images/firmware-flaws-threaten-sunshine-coast-business-devices.png"
+---
   # Hidden Firmware Flaws Could Let Hackers Take Over Your Business Devices Before They Even Start Up
 
 If you run a small business on the Sunshine Coast, chances are you're juggling customer bookings, invoices, supplier orders, and staff rosters — mostly from your phone or laptop. But here's something most sole traders and micro-business owners never think about: what happens before your device even turns on?
