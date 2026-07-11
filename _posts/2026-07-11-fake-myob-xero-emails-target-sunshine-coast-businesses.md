@@ -1,8 +1,8 @@
- ---
-  title: "Fake MYOB and Xero Emails Target Sunshine Coast Businesses"
-  date: "2026-07-11"
-  image: "/assets/images/fake-myob-xero-emails-target-sunshine-coast-businesses.png"
-  ---
+---
+title: "Fake MYOB and Xero Emails Target Sunshine Coast Businesses"
+date: "2026-07-11"
+image: "/assets/images/fake-myob-xero-emails-target-sunshine-coast-businesses.png"
+---
   # New Malware Campaign Targeting Small Businesses Through Fake MYOB and Xero Emails
 
 ## What's Happening Right Now
