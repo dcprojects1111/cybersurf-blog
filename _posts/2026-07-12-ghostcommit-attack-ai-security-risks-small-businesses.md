@@ -1,8 +1,8 @@
- ---
-  title: "Ghostcommit Attack: AI Security Risks for Small Businesses"
-  date: "2026-07-12"
-  image: "/assets/images/ghostcommit-attack-ai-security-risks-small-businesses.png"
-  ---
+---
+title: "Ghostcommit Attack: AI Security Risks for Small Businesses"
+date: "2026-07-12"
+image: "/assets/images/ghostcommit-attack-ai-security-risks-small-businesses.png"
+---
   # AI Coding Tools Under Fire: What the 'Ghostcommit' Attack Means for Your Sunshine Coast Business
 
 If you're running a small business on the Sunshine Coast, chances are you've started using AI tools to save time. Maybe ChatGPT helps you write social media posts, or you've tried an AI assistant to handle customer enquiries. These tools are brilliant—until they're not.
