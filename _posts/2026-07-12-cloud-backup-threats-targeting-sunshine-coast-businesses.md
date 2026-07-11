@@ -1,8 +1,8 @@
- ---
-  title: "Cloud Backup Threats Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-12"
-  image: "/assets/images/cloud-backup-threats-targeting-sunshine-coast-businesses.png"
-  ---
+---
+title: "Cloud Backup Threats Targeting Sunshine Coast Small Businesses"
+date: "2026-07-12"
+image: "/assets/images/cloud-backup-threats-targeting-sunshine-coast-businesses.png"
+---
   # Cyber Criminals Now Targeting Small Businesses Through Cloud Backup Services
 
 ## Your Business Data Might Already Be At Risk
