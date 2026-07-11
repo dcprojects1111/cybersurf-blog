@@ -1,8 +1,8 @@
- ---
-  title: "Cyber Warning for Sunshine Coast Small Business Websites"
-  date: "2026-07-12"
-  image: "/assets/images/cyber-warning-sunshine-coast-small-business-websites.png"
-  ---
+---
+title: "Cyber Warning for Sunshine Coast Small Business Websites"
+date: "2026-07-12"
+image: "/assets/images/cyber-warning-sunshine-coast-small-business-websites.png"
+---
   # Aussie Cyber Centre Warns of Attack Campaign Targeting Small Business Websites
 
 **If your business has a website — even a simple one — this warning from Australia's official cybersecurity agency is for you.**
