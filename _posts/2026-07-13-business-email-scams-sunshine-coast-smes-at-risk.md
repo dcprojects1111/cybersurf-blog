@@ -1,8 +1,8 @@
- ---
-  title: "Business Email Scams: Sunshine Coast SMEs at Risk"
-  date: "2026-07-13"
-  image: "/assets/images/business-email-scams-sunshine-coast-smes-at-risk.png"
-  ---
+---
+title: "Business Email Scams: Sunshine Coast SMEs at Risk"
+date: "2026-07-13"
+image: "/assets/images/business-email-scams-sunshine-coast-smes-at-risk.png"
+---
   # Your Business Email Could Be Sending Scams Right Now — and You'd Never Know
 
 **A wake-up call for Sunshine Coast small business owners who think cybercrime only happens to the big end of town**
