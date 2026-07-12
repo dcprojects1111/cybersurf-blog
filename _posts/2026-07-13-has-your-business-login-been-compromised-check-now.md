@@ -1,8 +1,8 @@
- ---
-  title: "Has Your Business Login Been Compromised? Check Now"
-  date: "2026-07-13"
-  image: "/assets/images/has-your-business-login-been-compromised-check-now.png"
-  ---
+---
+title: "Has Your Business Login Been Compromised? Check Now"
+date: "2026-07-13"
+image: "/assets/images/has-your-business-login-been-compromised-check-now.png"
+---
   # Has Your Business Login Been Compromised? Why Sunshine Coast Small Businesses Need to Check Now
 
 ## Free Trials End, But Security Threats Don't
