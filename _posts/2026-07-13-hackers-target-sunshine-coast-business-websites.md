@@ -1,8 +1,8 @@
- ---
-  title: "Hackers Target Sunshine Coast Business Websites: What to Do"
-  date: "2026-07-13"
-  image: "/assets/images/hackers-target-sunshine-coast-business-websites.png"
-  ---
+---
+title: "Hackers Target Sunshine Coast Business Websites: What to Do"
+date: "2026-07-13"
+image: "/assets/images/hackers-target-sunshine-coast-business-websites.png"
+---
   # Hackers Are Targeting Australian Business Websites — Here's What Sunshine Coast Owners Need to Know
 
 If you run your business online — even just a simple website with a booking form or contact page — you need to read this.
