@@ -1,8 +1,8 @@
- ---
-  title: "Australian Cyber Warning: Is Your Sunshine Coast Site at Risk?"
-  date: "2026-07-12"
-  image: "/assets/images/australian-cyber-warning-sunshine-coast-business-website-risk.png"
-  ---
+---
+title: "Australian Cyber Warning: Is Your Sunshine Coast Site at Risk?"
+date: "2026-07-12"
+image: "/assets/images/australian-cyber-warning-sunshine-coast-business-website-risk.png"
+---
   # Australian Cyber Warning: Is Your Business Website at Risk?
 
 If you're running a small business on the Sunshine Coast and your website was built a few years ago — maybe by a mate, a freelancer, or even a web agency that's since gone quiet — you need to read this.
