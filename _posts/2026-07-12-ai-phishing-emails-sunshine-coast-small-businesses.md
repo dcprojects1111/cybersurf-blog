@@ -1,8 +1,8 @@
- ---
-  title: "AI Phishing Emails Target Sunshine Coast Small Businesses"
-  date: "2026-07-12"
-  image: "/assets/images/ai-phishing-emails-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "AI Phishing Emails Target Sunshine Coast Small Businesses"
+date: "2026-07-12"
+image: "/assets/images/ai-phishing-emails-sunshine-coast-small-businesses.png"
+---
   # Cybercriminals Are Now Using AI to Write More Convincing Phishing Emails — Here's What Sunshine Coast Business Owners Need to Know
 
 If you've noticed scam emails getting harder to spot lately, you're not imagining things. Cybercriminals have started using artificial intelligence to write phishing messages that look and sound far more legitimate than the dodgy emails we've all learned to laugh at.
