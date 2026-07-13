@@ -1,8 +1,8 @@
- ---
-  title: "Bigpanzi Botnet: 170,000 Devices Hijacked Worldwide"
-  date: "2026-07-14"
-  image: "/assets/images/bigpanzi-botnet-170000-devices-hijacked-worldwide.png"
-  ---
+---
+title: "Bigpanzi Botnet: 170,000 Devices Hijacked Worldwide"
+date: "2026-07-14"
+image: "/assets/images/bigpanzi-botnet-170000-devices-hijacked-worldwide.png"
+---
   # New 'Bigpanzi' Botnet Discovered Controlling 170,000 Smart Devices Across the Globe
 
 ## Your Business Phone or Router Might Already Be Part of a Cyber Crime Network
