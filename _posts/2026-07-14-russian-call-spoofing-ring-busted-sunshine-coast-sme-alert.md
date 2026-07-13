@@ -1,8 +1,8 @@
- ---
-  title: "Russian Call Spoofing Ring Busted: Sunshine Coast SME Alert"
-  date: "2026-07-14"
-  image: "/assets/images/russian-call-spoofing-ring-busted-sunshine-coast-sme-alert.png"
-  ---
+---
+title: "Russian Call Spoofing Ring Busted: Sunshine Coast SME Alert"
+date: "2026-07-14"
+image: "/assets/images/russian-call-spoofing-ring-busted-sunshine-coast-sme-alert.png"
+---
   # Russian Call Spoofing Ring Busted: What Sunshine Coast Business Owners Need to Know
 
 If you've ever answered your phone and seen a legitimate-looking Australian number on the screen, only to find a scammer on the other end, you're not alone. UK authorities just shut down a massive operation that made this disturbingly easy for criminals — and it's a wake-up call for every small business owner on the Sunshine Coast.
