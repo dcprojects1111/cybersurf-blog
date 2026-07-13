@@ -1,8 +1,8 @@
- ---
-  title: "Google Calendar Scam Hitting Sunshine Coast Small Businesses"
-  date: "2026-07-14"
-  image: "/assets/images/google-calendar-scam-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "Google Calendar Scam Hitting Sunshine Coast Small Businesses"
+date: "2026-07-14"
+image: "/assets/images/google-calendar-scam-sunshine-coast-small-businesses.png"
+---
   # New Google Calendar Scam Targets Sunshine Coast Small Businesses Through Fake Meeting Invites
 
 If you run your business from your phone—whether you're a landscaper managing site visits, an accountant juggling client meetings, or a café owner coordinating supplier deliveries—chances are Google Calendar is one of your most-used apps. Unfortunately, cybercriminals know this too, and they've found a clever way to exploit it.
