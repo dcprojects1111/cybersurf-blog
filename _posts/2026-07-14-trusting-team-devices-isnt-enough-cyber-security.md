@@ -1,8 +1,8 @@
- ---
-  title: "Trusting Your Team's Devices Isn't Enough for Cyber Security"
-  date: "2026-07-14"
-  image: "/assets/images/trusting-team-devices-isnt-enough-cyber-security.png"
-  ---
+---
+title: "Trusting Your Team's Devices Isn't Enough for Cyber Security"
+date: "2026-07-14"
+image: "/assets/images/trusting-team-devices-isnt-enough-cyber-security.png"
+---
   # Trusting Your Team's Devices Isn't Enough: What Sunshine Coast Business Owners Need to Know
 
 If you're running a small business on the Sunshine Coast, chances are you've handed someone access to your business systems on their personal device. Maybe it's your apprentice checking the job schedule on their phone, your part-timer accessing the booking system from home, or even your teenage kid helping update your Airbnb listings on weekends.
