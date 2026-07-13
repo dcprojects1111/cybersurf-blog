@@ -1,8 +1,8 @@
- ---
-  title: "Taxi Cyberattack Shows Why Sunshine Coast SMEs Need Protection"
-  date: "2026-07-14"
-  image: "/assets/images/taxi-cyberattack-sunshine-coast-sme-protection.png"
-  ---
+---
+title: "Taxi Cyberattack Shows Why Sunshine Coast SMEs Need Protection"
+date: "2026-07-14"
+image: "/assets/images/taxi-cyberattack-sunshine-coast-sme-protection.png"
+---
   # Major Taxi Company Cyberattack: A Wake-Up Call for Sunshine Coast Small Businesses
 
 When Japan's largest taxi operator, Nihon Kotsu, was forced to shut down critical business systems after a cyberattack last week, it might have seemed like distant news. But for small business owners on the Sunshine Coast, this incident offers an important lesson: if a major company with IT teams and security systems can be compromised, what does that mean for your one-person operation running everything from your phone?
