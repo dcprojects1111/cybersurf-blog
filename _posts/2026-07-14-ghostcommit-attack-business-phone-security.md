@@ -1,8 +1,8 @@
- ---
-  title: "Ghostcommit Attack: Why Your Business Phone Isn't Safe"
-  date: "2026-07-14"
-  image: "/assets/images/ghostcommit-attack-business-phone-security.png"
-  ---
+---
+title: "Ghostcommit Attack: Why Your Business Phone Isn't Safe"
+date: "2026-07-14"
+image: "/assets/images/ghostcommit-attack-business-phone-security.png"
+---
   # Ghostcommit Attack: Why Your Business Phone Isn't as Safe as You Think
 
 If you're running a small business on the Sunshine Coast, chances are your phone is your office. You're checking invoices between jobs, updating your Airbnb calendar from the beach, or confirming tomorrow's bookings while you're still cleaning up today's salon. It's convenient, it's flexible — and according to new cyber security research, it might be more vulnerable than you realise.
