@@ -1,8 +1,8 @@
- ---
-  title: "FaceTime Scams Targeting Sunshine Coast Business Owners"
-  date: "2026-07-15"
-  image: "/assets/images/facetime-scams-targeting-sunshine-coast-business-owners.png"
-  ---
+---
+title: "FaceTime Scams Targeting Sunshine Coast Business Owners"
+date: "2026-07-15"
+image: "/assets/images/facetime-scams-targeting-sunshine-coast-business-owners.png"
+---
   # FaceTime Scams Are Targeting Aussie Business Owners — Here's What You Need to Know
 
 If you run a small business on the Sunshine Coast, your phone isn't just your lifeline to customers—it's also becoming a target for scammers using surprisingly simple tactics to empty bank accounts.
