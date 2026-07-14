@@ -1,8 +1,8 @@
- ---
-  title: "SonicWall Security Flaw Threatens Sunshine Coast Businesses"
-  date: "2026-07-15"
-  image: "/assets/images/sonicwall-security-flaw-threatens-sunshine-coast-businesses.png"
-  ---
+---
+title: "SonicWall Security Flaw Threatens Sunshine Coast Businesses"
+date: "2026-07-15"
+image: "/assets/images/sonicwall-security-flaw-threatens-sunshine-coast-businesses.png"
+---
   # Critical Security Flaw Puts Small Business Remote Access at Risk
 
 **If you're running your business from your phone or laptop while out and about on the Sunshine Coast, this one's for you.**
