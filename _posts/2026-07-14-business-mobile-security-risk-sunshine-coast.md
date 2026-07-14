@@ -1,8 +1,8 @@
- ---
-  title: "Why Your Business Mobile Puts Your Sunshine Coast Business at Risk"
-  date: "2026-07-14"
-  image: "/assets/images/business-mobile-security-risk-sunshine-coast.png"
-  ---
+---
+title: "Why Your Business Mobile Puts Your Sunshine Coast Business at Risk"
+date: "2026-07-14"
+image: "/assets/images/business-mobile-security-risk-sunshine-coast.png"
+---
   # Why Your Business Mobile Could Be Putting Your Livelihood at Risk
 
 **Understanding the Device You Run Your Business From**
