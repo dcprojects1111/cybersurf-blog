@@ -1,8 +1,8 @@
- ---
-  title: "Has Your Business Email Been Compromised? Sunshine Coast Guide"
-  date: "2026-07-15"
-  image: "/assets/images/business-email-compromised-sunshine-coast-small-business.png"
-  ---
+---
+title: "Has Your Business Email Been Compromised? Sunshine Coast Guide"
+date: "2026-07-15"
+image: "/assets/images/business-email-compromised-sunshine-coast-small-business.png"
+---
   # Has Your Business Email Already Been Compromised? What Sunshine Coast Small Business Owners Need to Know
 
 If you're running a small business on the Sunshine Coast—whether you're an electrician sending quotes, a café owner coordinating with suppliers, or an accountant managing client files—your email is probably the backbone of your operation. But here's something most sole traders don't realise: your business email might already be compromised, and you wouldn't even know it.
