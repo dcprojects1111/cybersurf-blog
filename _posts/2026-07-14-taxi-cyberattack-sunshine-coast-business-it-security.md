@@ -1,8 +1,8 @@
- ---
-  title: "Taxi Cyberattack Shows Why Sunshine Coast Businesses Need IT Security"
-  date: "2026-07-14"
-  image: "/assets/images/taxi-cyberattack-sunshine-coast-business-it-security.png"
-  ---
+---
+title: "Taxi Cyberattack Shows Why Sunshine Coast Businesses Need IT Security"
+date: "2026-07-14"
+image: "/assets/images/taxi-cyberattack-sunshine-coast-business-it-security.png"
+---
   # Major Taxi Company Cyberattack Shows Why Every Sunshine Coast Business Needs to Take IT Security Seriously
 
 When Japan's biggest taxi company had to shut down its entire computer system last week after a cyberattack, it wasn't just a problem for Tokyo commuters. It's a wake-up call for every small business owner right here on the Sunshine Coast.
