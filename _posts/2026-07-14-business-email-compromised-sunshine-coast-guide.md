@@ -1,8 +1,8 @@
- ---
-  title: "Has Your Business Email Been Compromised? Sunshine Coast Guide"
-  date: "2026-07-14"
-  image: "/assets/images/business-email-compromised-sunshine-coast-guide.png"
-  ---
+---
+title: "Has Your Business Email Been Compromised? Sunshine Coast Guide"
+date: "2026-07-14"
+image: "/assets/images/business-email-compromised-sunshine-coast-guide.png"
+---
   # Has Your Business Email Already Been Compromised? What Sunshine Coast Small Business Owners Need to Know
 
 If you're running your business from your phone—managing bookings, sending invoices, or coordinating with suppliers—your email account is probably the most valuable thing you own. It's your shopfront, your filing cabinet, and your communication hub all rolled into one.
