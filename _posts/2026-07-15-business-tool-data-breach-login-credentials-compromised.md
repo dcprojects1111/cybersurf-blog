@@ -1,8 +1,8 @@
- ---
-  title: "Business Tool Data Breach: Are Your Logins Compromised?"
-  date: "2026-07-15"
-  image: "/assets/images/business-tool-data-breach-login-credentials-compromised.png"
-  ---
+---
+title: "Business Tool Data Breach: Are Your Logins Compromised?"
+date: "2026-07-15"
+image: "/assets/images/business-tool-data-breach-login-credentials-compromised.png"
+---
   # Popular Business Tool Exposed: Are Your Login Details Already Out There?
 
 If you're running a small business on the Sunshine Coast—whether that's a landscaping crew, a beauty salon, or a short-stay accommodation—there's a good chance you're using cloud-based tools to keep things running. Booking systems, invoicing apps, customer databases, even your business Instagram account. They're convenient, affordable, and you can access them from your phone while you're on the road.
