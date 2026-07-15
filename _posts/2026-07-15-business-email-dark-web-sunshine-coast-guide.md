@@ -1,8 +1,8 @@
- ---
-  title: "Is Your Business Email on the Dark Web? Sunshine Coast Guide"
-  date: "2026-07-15"
-  image: "/assets/images/business-email-dark-web-sunshine-coast-guide.png"
-  ---
+---
+title: "Is Your Business Email on the Dark Web? Sunshine Coast Guide"
+date: "2026-07-15"
+image: "/assets/images/business-email-dark-web-sunshine-coast-guide.png"
+---
   # Your Business Email Could Be Selling on the Dark Web Right Now — Here's What Sunshine Coast Tradies and Small Business Owners Need to Know
 
 You're juggling quotes, managing staff rosters, chasing invoices, and keeping customers happy — all from your phone. The last thing on your mind is cyber security. But here's something that might change that: right now, your business email address and password could be sitting on a list being traded between criminals online.
