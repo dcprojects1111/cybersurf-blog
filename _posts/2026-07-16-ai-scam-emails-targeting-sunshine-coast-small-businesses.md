@@ -1,8 +1,8 @@
- ---
-  title: "AI Scam Emails Targeting Sunshine Coast Small Businesses"
-  date: "2026-07-16"
-  image: "/assets/images/ai-scam-emails-targeting-sunshine-coast-small-businesses.png"
-  ---
+---
+title: "AI Scam Emails Targeting Sunshine Coast Small Businesses"
+date: "2026-07-16"
+image: "/assets/images/ai-scam-emails-targeting-sunshine-coast-small-businesses.png"
+---
   # Cyber Criminals Are Exploiting AI Tools to Write More Convincing Scam Emails
 
 ## Your Business Email Might Look Real — But Is It?
