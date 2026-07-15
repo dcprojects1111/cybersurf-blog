@@ -1,8 +1,8 @@
- ---
-  title: "SonicWall Security Flaw: Sunshine Coast Small Business Alert"
-  date: "2026-07-15"
-  image: "/assets/images/sonicwall-security-flaw-sunshine-coast-small-business.png"
-  ---
+---
+title: "SonicWall Security Flaw: Sunshine Coast Small Business Alert"
+date: "2026-07-15"
+image: "/assets/images/sonicwall-security-flaw-sunshine-coast-small-business.png"
+---
   # SonicWall Security Flaw: What Sunshine Coast Small Businesses Need to Know
 
 If you're running your business from your phone—managing bookings, sending invoices, or coordinating jobs—there's a good chance you're relying on technology you've never had to think twice about. But a recent security alert from SonicWall, a major provider of network security equipment, is a wake-up call for small business owners everywhere, including right here on the Sunshine Coast.
