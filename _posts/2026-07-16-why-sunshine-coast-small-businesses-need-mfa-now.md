@@ -1,8 +1,8 @@
- ---
-  title: "Why Sunshine Coast Small Businesses Need MFA Now"
-  date: "2026-07-16"
-  image: "/assets/images/why-sunshine-coast-small-businesses-need-mfa-now.png"
-  ---
+---
+title: "Why Sunshine Coast Small Businesses Need MFA Now"
+date: "2026-07-16"
+image: "/assets/images/why-sunshine-coast-small-businesses-need-mfa-now.png"
+---
   # Passwords Alone Won't Cut It Anymore: Why Sunshine Coast Small Businesses Need MFA Now
 
 If you're running a small business on the Sunshine Coast and still relying on passwords alone to protect your accounts, it's time for a reality check. Cybercriminals are getting smarter, and passwords — no matter how strong — just aren't enough anymore.
