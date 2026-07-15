@@ -1,8 +1,8 @@
- ---
-  title: "Dutch Fraud Ring Shows Why Sunshine Coast SMEs Need Protection"
-  date: "2026-07-16"
-  image: "/assets/images/dutch-fraud-ring-sunshine-coast-sme-protection.png"
-  ---
+---
+title: "Dutch Fraud Ring Shows Why Sunshine Coast SMEs Need Protection"
+date: "2026-07-16"
+image: "/assets/images/dutch-fraud-ring-sunshine-coast-sme-protection.png"
+---
   # Dutch Investment Fraud Ring Busted: What Sunshine Coast Small Business Owners Need to Know
 
 ## Massive Fraud Network Highlights Growing Threat to Australian Small Businesses
