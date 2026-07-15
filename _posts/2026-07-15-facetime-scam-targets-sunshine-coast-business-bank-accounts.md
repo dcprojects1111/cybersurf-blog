@@ -1,8 +1,8 @@
- ---
-  title: "FaceTime Scam Targets Sunshine Coast Business Bank Accounts"
-  date: "2026-07-15"
-  image: "/assets/images/facetime-scam-targets-sunshine-coast-business-bank-accounts.png"
-  ---
+---
+title: "FaceTime Scam Targets Sunshine Coast Business Bank Accounts"
+date: "2026-07-15"
+image: "/assets/images/facetime-scam-targets-sunshine-coast-business-bank-accounts.png"
+---
   # Scammers Are Using FaceTime to Target Bank Accounts: What Sunshine Coast Business Owners Need to Know
 
 If you run a small business on the Sunshine Coast and use your phone for everything from taking bookings to managing your accounts, there's a new scam you need to be aware of. Cybercriminals are now using FaceTime and similar video calling apps to trick business owners into handing over their banking details—and it's working.
