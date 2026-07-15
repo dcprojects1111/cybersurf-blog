@@ -1,8 +1,8 @@
- ---
-  title: "July's 622 Microsoft Security Flaws: Sunshine Coast Business Guide"
-  date: "2026-07-16"
-  image: "/assets/images/microsoft-security-update-sunshine-coast-business-guide.png"
-  ---
+---
+title: "July's 622 Microsoft Security Flaws: Sunshine Coast Business Guide"
+date: "2026-07-16"
+image: "/assets/images/microsoft-security-update-sunshine-coast-business-guide.png"
+---
   # July's Massive Microsoft Security Update: What Sunshine Coast Business Owners Need to Know
 
 If you're running your business from your phone or laptop on the Sunshine Coast—whether you're managing an Airbnb, booking clients at your salon, or sending quotes from the job site—there's an important security update you need to know about.
