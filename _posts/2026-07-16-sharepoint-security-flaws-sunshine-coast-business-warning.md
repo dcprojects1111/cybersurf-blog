@@ -1,8 +1,8 @@
- ---
-  title: "SharePoint Security Flaws: Sunshine Coast Business Warning"
-  date: "2026-07-16"
-  image: "/assets/images/sharepoint-security-flaws-sunshine-coast-business-warning.png"
-  ---
+---
+title: "SharePoint Security Flaws: Sunshine Coast Business Warning"
+date: "2026-07-16"
+image: "/assets/images/sharepoint-security-flaws-sunshine-coast-business-warning.png"
+---
   # SharePoint Security Flaws: What Sunshine Coast Business Owners Need to Know
 
 If your business uses Microsoft SharePoint to store documents, manage projects, or share files with your team, you need to read this carefully. Security experts have just issued an urgent warning about serious weaknesses that hackers are actively using right now to break into business systems.
