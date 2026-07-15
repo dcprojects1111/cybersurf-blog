@@ -1,8 +1,8 @@
- ---
-  title: "Chrome Extension Flaw Puts Gmail at Risk for Small Businesses"
-  date: "2026-07-16"
-  image: "/assets/images/chrome-extension-flaw-puts-gmail-at-risk-small-businesses.png"
-  ---
+---
+title: "Chrome Extension Flaw Puts Gmail at Risk for Small Businesses"
+date: "2026-07-16"
+image: "/assets/images/chrome-extension-flaw-puts-gmail-at-risk-small-businesses.png"
+---
   # Chrome Extension Flaw Puts Your Business Gmail at Risk—Here's What Sunshine Coast Business Owners Need to Know
 
 If you're running your business from your phone and laptop—managing bookings, sending quotes, chasing invoices—there's a good chance your Gmail account is the heart of your operation. And right now, there's a security flaw that could hand the keys to that account straight to cybercriminals.
