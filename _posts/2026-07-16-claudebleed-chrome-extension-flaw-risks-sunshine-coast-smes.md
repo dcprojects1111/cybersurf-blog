@@ -1,8 +1,8 @@
- ---
-  title: "ClaudeBleed: Chrome Extension Flaw Risks Sunshine Coast SMEs"
-  date: "2026-07-16"
-  image: "/assets/images/claudebleed-chrome-extension-flaw-risks-sunshine-coast-smes.png"
-  ---
+---
+title: "ClaudeBleed: Chrome Extension Flaw Risks Sunshine Coast SMEs"
+date: "2026-07-16"
+image: "/assets/images/claudebleed-chrome-extension-flaw-risks-sunshine-coast-smes.png"
+---
   # Chrome Extension Flaw Puts Your Business Gmail at Risk: What Sunshine Coast Business Owners Need to Know
 
 If you're running your Sunshine Coast business from your phone and laptop — managing bookings, sending quotes, or chasing invoices through Gmail — this security flaw hits close to home.
