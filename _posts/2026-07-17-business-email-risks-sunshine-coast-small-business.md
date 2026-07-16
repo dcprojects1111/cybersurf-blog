@@ -1,8 +1,8 @@
- ---
-  title: "Business Email Risks: Sunshine Coast Small Business Guide"
-  date: "2026-07-17"
-  image: "/assets/images/business-email-risks-sunshine-coast-small-business.png"
-  ---
+---
+title: "Business Email Risks: Sunshine Coast Small Business Guide"
+date: "2026-07-17"
+image: "/assets/images/business-email-risks-sunshine-coast-small-business.png"
+---
   # Your Business Email Could Be Putting Client Money at Risk — Here's What Sunshine Coast Small Businesses Need to Know
 
 If you're running your business from your phone — managing bookings, sending invoices, or coordinating jobs through email — this one's for you. A new wave of cybercriminals is targeting everyday business email accounts, and they're getting smarter about it.
