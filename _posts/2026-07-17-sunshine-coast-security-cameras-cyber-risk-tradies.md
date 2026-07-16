@@ -1,8 +1,8 @@
- ---
-  title: "Sunshine Coast Security Cameras: A Cyber Risk for Tradies?"
-  date: "2026-07-17"
-  image: "/assets/images/sunshine-coast-security-cameras-cyber-risk-tradies.png"
-  ---
+---
+title: "Sunshine Coast Security Cameras: A Cyber Risk for Tradies?"
+date: "2026-07-17"
+image: "/assets/images/sunshine-coast-security-cameras-cyber-risk-tradies.png"
+---
   # Why Small Businesses on the Sunshine Coast Need to Think Twice About Connected Security Cameras
 
 If you run a tradie business, a café, or a retail shop on the Sunshine Coast, you've probably thought about installing security cameras. They're getting cheaper, smarter, and easier to set up. But a growing story out of the United States is a timely reminder that "smart" doesn't always mean "secure" — and when these devices are connected to the internet, they can become a cyber security risk rather than a solution.
