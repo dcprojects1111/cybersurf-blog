@@ -1,8 +1,8 @@
- ---
-  title: "Credential Stuffing: The Login Threat Hitting Sunshine Coast SMEs"
-  date: "2026-07-17"
-  image: "/assets/images/credential-stuffing-threat-sunshine-coast-small-business.png"
-  ---
+---
+title: "Credential Stuffing: The Login Threat Hitting Sunshine Coast SMEs"
+date: "2026-07-17"
+image: "/assets/images/credential-stuffing-threat-sunshine-coast-small-business.png"
+---
   # Has Your Business Login Already Been Stolen? The Credential Stuffing Risk Sunshine Coast Business Owners Need to Know
 
 If you're running your landscaping business, beauty salon, or Airbnb from your phone and laptop, there's a cyber security threat you've probably never heard of—but it might already be affecting you right now.
