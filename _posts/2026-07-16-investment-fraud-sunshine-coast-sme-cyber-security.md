@@ -1,8 +1,8 @@
- ---
-  title: "Investment Fraud Bust Shows Why Sunshine Coast SMEs Need Cyber Security"
-  date: "2026-07-16"
-  image: "/assets/images/investment-fraud-sunshine-coast-sme-cyber-security.png"
-  ---
+---
+title: "Investment Fraud Bust Shows Why Sunshine Coast SMEs Need Cyber Security"
+date: "2026-07-16"
+image: "/assets/images/investment-fraud-sunshine-coast-sme-cyber-security.png"
+---
   # Major Investment Fraud Bust Shows Why Sunshine Coast Small Businesses Need to Take Cyber Security Seriously
 
 If you've been putting off thinking about cyber security for your Sunshine Coast business, a recent international fraud case might change your mind. Dutch police just arrested multiple people involved in a massive investment scam that stole over €100 million from tens of thousands of victims. While this happened overseas, the tactics these criminals used are the same ones targeting Australian small businesses every single day.
