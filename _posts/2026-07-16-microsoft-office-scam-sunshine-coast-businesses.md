@@ -1,8 +1,8 @@
- ---
-  title: "New Microsoft Office Scam Hitting Sunshine Coast Businesses"
-  date: "2026-07-16"
-  image: "/assets/images/microsoft-office-scam-sunshine-coast-businesses.png"
-  ---
+---
+title: "New Microsoft Office Scam Hitting Sunshine Coast Businesses"
+date: "2026-07-16"
+image: "/assets/images/microsoft-office-scam-sunshine-coast-businesses.png"
+---
   # New Microsoft Office Scam Targeting Australian Small Businesses
 
 ## You Don't Need to Click a Link to Get Hacked Anymore
