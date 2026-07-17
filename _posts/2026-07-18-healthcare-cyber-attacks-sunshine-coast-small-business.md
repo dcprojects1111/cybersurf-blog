@@ -1,8 +1,8 @@
- ---
-  title: "Healthcare Cyber Attacks Hit Sunshine Coast Small Businesses"
-  date: "2026-07-18"
-  image: "/assets/images/healthcare-cyber-attacks-sunshine-coast-small-business.png"
-  ---
+---
+title: "Healthcare Cyber Attacks Hit Sunshine Coast Small Businesses"
+date: "2026-07-18"
+image: "/assets/images/healthcare-cyber-attacks-sunshine-coast-small-business.png"
+---
   # Cyber Criminals Are Targeting Australia's Healthcare Sector – And Small Businesses Aren't Immune
 
 ## Why Sunshine Coast small business owners need to pay attention
