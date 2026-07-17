@@ -1,8 +1,8 @@
- ---
-  title: "Shark Vacuum Flaw Exposes Cameras: Sunshine Coast Business Risk"
-  date: "2026-07-18"
-  image: "/assets/images/shark-vacuum-flaw-exposes-cameras-sunshine-coast-business-risk.png"
-  ---
+---
+title: "Shark Vacuum Flaw Exposes Cameras: Sunshine Coast Business Risk"
+date: "2026-07-18"
+image: "/assets/images/shark-vacuum-flaw-exposes-cameras-sunshine-coast-business-risk.png"
+---
   # Shark Vacuum Flaw Exposes Cameras, Home Maps and Wi-Fi Passwords: What Sunshine Coast Business Owners Need to Know
 
 If you're running a small business on the Sunshine Coast from home — or juggling client appointments, Airbnb turnovers, or admin work from your living room — there's a cybersecurity lesson hiding in an unlikely place: your robot vacuum.
