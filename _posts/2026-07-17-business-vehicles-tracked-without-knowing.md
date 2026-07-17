@@ -1,8 +1,8 @@
- ---
-  title: "Are Your Business Vehicles Being Tracked Without Knowing?"
-  date: "2026-07-17"
-  image: "/assets/images/business-vehicles-tracked-without-knowing.png"
-  ---
+---
+title: "Are Your Business Vehicles Being Tracked Without Knowing?"
+date: "2026-07-17"
+image: "/assets/images/business-vehicles-tracked-without-knowing.png"
+---
   # Are Your Business Vehicles Being Tracked Without You Knowing?
 
 If you run a trade business, manage short-stay accommodation, or operate any kind of mobile service on the Sunshine Coast, there's a growing surveillance network you need to know about. Automated license plate recognition cameras are becoming more common across Australia, and while they're marketed as crime-prevention tools, they're raising serious questions about privacy, accuracy, and what happens to your data.
