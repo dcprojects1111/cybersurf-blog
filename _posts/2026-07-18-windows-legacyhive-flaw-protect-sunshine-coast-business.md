@@ -1,8 +1,8 @@
- ---
-  title: "Windows LegacyHive Flaw: Protect Your Sunshine Coast Business"
-  date: "2026-07-18"
-  image: "/assets/images/windows-legacyhive-flaw-protect-sunshine-coast-business.png"
-  ---
+---
+title: "Windows LegacyHive Flaw: Protect Your Sunshine Coast Business"
+date: "2026-07-18"
+image: "/assets/images/windows-legacyhive-flaw-protect-sunshine-coast-business.png"
+---
   # New Windows Security Flaw: What Sunshine Coast Small Business Owners Need to Know
 
 If you run your business from a Windows laptop or desktop — whether you're managing bookings, sending invoices, or keeping customer records — there's a new security issue you should know about.
