@@ -1,8 +1,8 @@
- ---
-  title: "Abbott Healthcare Breach: Cyber Security for Sunshine Coast SMEs"
-  date: "2026-07-18"
-  image: "/assets/images/abbott-healthcare-breach-cyber-security-sunshine-coast-smes.png"
-  ---
+---
+title: "Abbott Healthcare Breach: Cyber Security for Sunshine Coast SMEs"
+date: "2026-07-18"
+image: "/assets/images/abbott-healthcare-breach-cyber-security-sunshine-coast-smes.png"
+---
   # Major Healthcare Breach Shows Why Your Business Can't Ignore Cyber Security on the Sunshine Coast
 
 When a massive company like Abbott Laboratories—a global healthcare giant—gets hit by not one but two separate cyber attacks in the same period, it's a wake-up call for every business owner, no matter how small.
