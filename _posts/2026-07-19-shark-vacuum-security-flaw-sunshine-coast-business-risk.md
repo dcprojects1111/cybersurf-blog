@@ -1,8 +1,8 @@
- ---
-  title: "Shark Vacuum Security Flaw: Cyber Risk for Coast Businesses"
-  date: "2026-07-19"
-  image: "/assets/images/shark-vacuum-security-flaw-sunshine-coast-business-risk.png"
-  ---
+---
+title: "Shark Vacuum Security Flaw: Cyber Risk for Coast Businesses"
+date: "2026-07-19"
+image: "/assets/images/shark-vacuum-security-flaw-sunshine-coast-business-risk.png"
+---
   # Shark Vacuum Security Flaw: A Wake-Up Call for Sunshine Coast Small Businesses
 
 If you run a small business on the Sunshine Coast, you probably use smart devices every day without thinking twice. Your phone, your EFTPOS terminal, maybe a booking app or cloud accounting software. But a recent discovery about Shark robot vacuums has exposed something every sole trader and micro-business owner needs to understand: the devices we trust can become doors for cybercriminals.
