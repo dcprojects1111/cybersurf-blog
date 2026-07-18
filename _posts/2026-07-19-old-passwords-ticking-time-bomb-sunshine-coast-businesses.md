@@ -1,8 +1,8 @@
- ---
-  title: "Why Old Passwords Are a Ticking Time Bomb for SC Businesses"
-  date: "2026-07-19"
-  image: "/assets/images/old-passwords-ticking-time-bomb-sunshine-coast-businesses.png"
-  ---
+---
+title: "Why Old Passwords Are a Ticking Time Bomb for SC Businesses"
+date: "2026-07-19"
+image: "/assets/images/old-passwords-ticking-time-bomb-sunshine-coast-businesses.png"
+---
   # Sunshine Coast Small Businesses: Why Your Old Passwords Are a Ticking Time Bomb
 
 If you're running a small business on the Sunshine Coast—whether you're a tradie, salon owner, or managing a couple of holiday rentals—you've probably reused the same password across multiple accounts. Maybe it's your birth year plus your pet's name, or some variation you can actually remember when you're juggling jobs on your phone.
