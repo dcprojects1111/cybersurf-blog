@@ -1,8 +1,8 @@
- ---
-  title: "7-Zip Security Flaw: Sunshine Coast Business Files at Risk"
-  date: "2026-07-19"
-  image: "/assets/images/7-zip-security-flaw-sunshine-coast-business-files-risk.png"
-  ---
+---
+title: "7-Zip Security Flaw: Sunshine Coast Business Files at Risk"
+date: "2026-07-19"
+image: "/assets/images/7-zip-security-flaw-sunshine-coast-business-files-risk.png"
+---
   # Critical Security Update: Why Your Business Files Might Not Be as Safe as You Think
 
 If you've ever downloaded a ZIP file to access a quote, contract, or customer photo gallery, you need to read this. A serious security flaw has just been discovered in 7-Zip, one of the world's most popular file compression programs — and it could let cybercriminals take control of your computer simply by getting you to open what looks like a harmless file.
