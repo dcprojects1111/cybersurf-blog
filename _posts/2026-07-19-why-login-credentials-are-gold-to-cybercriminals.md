@@ -1,8 +1,8 @@
- ---
-  title: "Why Login Credentials Are Gold to Cybercriminals"
-  date: "2026-07-19"
-  image: "/assets/images/why-login-credentials-are-gold-to-cybercriminals.png"
-  ---
+---
+title: "Why Login Credentials Are Gold to Cybercriminals"
+date: "2026-07-19"
+image: "/assets/images/why-login-credentials-are-gold-to-cybercriminals.png"
+---
   # Sunshine Coast Small Businesses: Why Your Login Credentials Are Gold to Cybercriminals
 
 If you're running a micro-business on the Sunshine Coast—whether you're managing Airbnb properties in Noosa, cutting hair in Maroochydore, or doing electrical work from Caloundra to Coolum—there's something you need to know: your login details are valuable currency on the dark web, and criminals are actively trying to steal them.
