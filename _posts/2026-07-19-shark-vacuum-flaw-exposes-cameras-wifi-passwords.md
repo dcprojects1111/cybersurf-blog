@@ -1,8 +1,8 @@
- ---
-  title: "Shark Vacuum Flaw Exposes Cameras & Wi-Fi Passwords"
-  date: "2026-07-19"
-  image: "/assets/images/shark-vacuum-flaw-exposes-cameras-wifi-passwords.png"
-  ---
+---
+title: "Shark Vacuum Flaw Exposes Cameras & Wi-Fi Passwords"
+date: "2026-07-19"
+image: "/assets/images/shark-vacuum-flaw-exposes-cameras-wifi-passwords.png"
+---
   # Shark Vacuum Flaw Exposes Cameras, Home Maps and Wi-Fi Passwords: What Sunshine Coast Small Business Owners Need to Know
 
 If you're running your business from home on the Sunshine Coast—whether you're a mobile tradie, an accountant seeing clients at your home office, or managing Airbnb properties—this latest smart device vulnerability should be on your radar.
