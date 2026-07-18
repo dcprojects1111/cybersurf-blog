@@ -1,8 +1,8 @@
- ---
-  title: "Why Your Login Details Might Already Be for Sale Online"
-  date: "2026-07-18"
-  image: "/assets/images/why-your-login-details-might-already-be-for-sale.png"
-  ---
+---
+title: "Why Your Login Details Might Already Be for Sale Online"
+date: "2026-07-18"
+image: "/assets/images/why-your-login-details-might-already-be-for-sale.png"
+---
   # Aussie Small Businesses: Why Your Login Details Might Already Be for Sale
 
 If you're running a small business on the Sunshine Coast — whether you're managing an Airbnb property, running a busy salon, or operating a trades business from your ute — there's a cybersecurity threat you need to know about. And the frustrating part? It might have already happened without you even realising.
