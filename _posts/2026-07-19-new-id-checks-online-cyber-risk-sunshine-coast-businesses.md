@@ -1,8 +1,8 @@
- ---
-  title: "New ID Checks Online: Cyber Risk for Sunshine Coast Businesses"
-  date: "2026-07-19"
-  image: "/assets/images/new-id-checks-online-cyber-risk-sunshine-coast-businesses.png"
-  ---
+---
+title: "New ID Checks Online: Cyber Risk for Sunshine Coast Businesses"
+date: "2026-07-19"
+image: "/assets/images/new-id-checks-online-cyber-risk-sunshine-coast-businesses.png"
+---
   # Your Business Accounts Could Be at Risk: The New Push for ID Checks Online
 
 If you're running a small business on the Sunshine Coast, you've probably noticed more websites and apps asking you to verify your identity. Maybe you're setting up a new booking system for your salon, opening a business account with a platform, or even just trying to access certain features in apps you already use. These "age verification" and identity checks are popping up everywhere — and while they're meant to keep things safer, they're also creating new cyber security risks for Sunshine Coast small businesses like yours.
