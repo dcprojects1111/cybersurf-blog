@@ -41,6 +41,9 @@ layout: default
   .subscribe-bar input::placeholder{color:rgba(252,253,242,.3)!important;}
   .subscribe-bar input[type="submit"],.subscribe-bar button[type="submit"]{background:#00d2ff!important;color:#0a1628!important;font-family:'Montserrat',sans-serif!important;font-weight:800!important;font-size:13px!important;padding:11px 22px!important;border-radius:8px!important;border:none!important;cursor:pointer!important;width:100%!important;transition:opacity .15s!important;box-shadow:none!important;}
   .subscribe-bar input[type="submit"]:hover,.subscribe-bar button[type="submit"]:hover{opacity:.85!important;}
+  .site-link-bar{max-width:800px;margin:20px auto 0;text-align:center;font-size:13px;color:rgba(252,253,242,.5);font-family:'Roboto',sans-serif;}
+  .site-link-bar a{color:#00d2ff;text-decoration:none;}
+  .site-link-bar a:hover{text-decoration:underline;}
 </style>
 <div class="article">
   <a href="/" class="back">&larr; All articles</a>
@@ -49,14 +52,17 @@ layout: default
   {% if page.image %}<img class="featured-img" src="{{ page.image }}" alt="{{ page.title }}"/>{% endif %}
   <div class="content">{{ content }}</div>
 </div>
+<div class="site-link-bar">
+  Written by <a href="https://cybersurf.au/" target="_blank" rel="noopener">CyberSurf</a> — Sunshine Coast's cyber security specialists. Visit our <a href="https://cybersurf.au/" target="_blank" rel="noopener">homepage</a> or <a href="https://cybersurf.au/#cta" target="_blank" rel="noopener">get in touch</a>.
+</div>
 <div class="cta-bar">
   <div class="cta-text">
     <h3>Is your business exposed?</h3>
     <p>Find out if this threat has already affected you — or get a complete security check tailored to your business.</p>
   </div>
   <div class="cta-buttons">
-    <a class="cta-primary" href="https://cybersurf.au/#breach-check" target="_blank" rel="noopener">$30 Breach Check</a>
-    <a class="cta-secondary" href="https://cybersurf.au/#surf-check" target="_blank" rel="noopener">Book a Full Scan</a>
+    <a class="cta-primary" href="tel:0400886063">Free Password Check-Up</a>
+    <a class="cta-secondary" href="https://cybersurf.au/#security-check" target="_blank" rel="noopener">Book a Full Scan</a>
   </div>
 </div>
 <div class="share-bar">
