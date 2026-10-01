@@ -5,6 +5,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>{% if page.title %}{{ page.title }} — {% endif %}CyberSurf Blog</title>
   <link rel="icon" type="image/png" href="/favicon.png"/>
+
+  {% if page.layout == "post" %}
+  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title | escape }}" />
+  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}" />{% endif %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ page.title | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.date | date_to_xmlschema }}",
+    "url": "{{ page.url | absolute_url }}",
+    {% if page.image %}"image": "{{ page.image | absolute_url }}",{% endif %}
+    "author": { "@type": "Person", "name": "Darryl Wessling" },
+    "publisher": { "@type": "Organization", "name": "CyberSurf", "url": "https://cybersurf.au/" },
+    "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ page.url | absolute_url }}" }
+  }
+  </script>
+  {% else %}
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  {% endif %}
+
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Roboto:wght@400;500&display=swap" rel="stylesheet"/>
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
