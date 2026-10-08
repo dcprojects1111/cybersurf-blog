@@ -8,5 +8,10 @@ theme: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-# rebuild-trigger 1791425117
-# trigger-actions-deploy 1791427060
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
