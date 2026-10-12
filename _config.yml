@@ -5,6 +5,7 @@ baseurl: ""
 permalink: /blog/:slug/
 markdown: kramdown
 theme: null
+future: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
