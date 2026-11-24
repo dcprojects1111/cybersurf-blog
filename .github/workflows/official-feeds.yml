@@ -1,0 +1,27 @@
+name: Official feeds collector
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: official-feeds
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch ACSC and CISA feeds
+        run: python3 .github/scripts/official_feeds.py
+      - name: Commit only if changed
+        run: |
+          if [ -n "$(git status --porcelain data/official-feed.json)" ]; then
+            git config user.name "cybersurf-bot"
+            git config user.email "cybersurf-bot@users.noreply.github.com"
+            git add data/official-feed.json
+            git commit -m "Official feeds update"
+            git push
+          fi
