@@ -9,6 +9,30 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
+   "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+   "ts": "2026-11-24T12:00:00+00:00",
+   "snip": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure\u2122 Power Build Rapsody product. The EcoStruxure\u2122 Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Danfoss AK-SM 8xxA Series",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+   "ts": "2026-11-24T12:00:00+00:00",
+   "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulne"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "AutomationDirect C-More EA9 Programming Software",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+   "ts": "2026-11-24T12:00:00+00:00",
+   "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
    "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
    "ts": "2026-11-23T12:00:00+00:00",
@@ -33,18 +57,18 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "libumqtt",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-   "ts": "2026-11-19T12:00:00+00:00",
-   "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt &lt;=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libum"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
    "title": "Autonomy Logic OpenPLC Runtime",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
    "ts": "2026-11-19T12:00:00+00:00",
    "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime &lt;=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Ru"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "libumqtt",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+   "ts": "2026-11-19T12:00:00+00:00",
+   "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt &lt;=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libum"
   },
   {
    "src": "CISA advisories",
@@ -57,10 +81,10 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "Siemens ROS#",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+   "title": "Siemens SIMATIC WinCC",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
    "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat"
+   "snip": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products "
   },
   {
    "src": "CISA advisories",
@@ -105,10 +129,26 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious "
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
    "title": "Siemens Simcenter Femap",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
    "ts": "2026-11-17T12:00:00+00:00",
    "snip": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens ROS#",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat"
   },
   {
    "src": "CISA advisories",
@@ -137,26 +177,10 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "Siemens SIMATIC WinCC",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products "
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
    "title": "Siemens meta-iot2050",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
    "ts": "2026-11-17T12:00:00+00:00",
    "snip": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious "
   },
   {
    "src": "CISA advisories",
@@ -178,14 +202,6 @@
    "src": "CISA advisories",
    "kind": "cisa",
    "title": "Siemens RUGGEDCOM APE1808",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-   "ts": "2026-11-12T12:00:00+00:00",
-   "snip": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in "
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens RUGGEDCOM APE1808",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
    "ts": "2026-11-12T12:00:00+00:00",
    "snip": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in "
@@ -197,6 +213,14 @@
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
    "ts": "2026-11-12T12:00:00+00:00",
    "snip": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens RUGGEDCOM APE1808",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+   "ts": "2026-11-12T12:00:00+00:00",
+   "snip": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in "
   },
   {
    "src": "CISA advisories",
@@ -221,31 +245,7 @@
    "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
    "ts": "2026-11-09T12:00:00+00:00",
    "snip": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability&nbsp; CVE-2026-123158"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "ts": "2026-11-06T12:00:00+00:00",
-   "snip": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious c"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Post-Quantum Questions to Ask Your Vendors",
-   "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-   "ts": "2026-11-05T12:00:00+00:00",
-   "snip": "CISA, the Australian Signals Directorate\u2019s Australian Cyber Security Centre (ASD\u2019s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quan"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-   "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-   "ts": "2026-11-05T12:00:00+00:00",
-   "snip": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)\u2014hereafter referred to as \u201cthe authoring organizations\u201d\u2014are aware of maliciou"
   }
  ],
- "generatedAt": "2026-11-24T07:59:36.727095+00:00"
+ "generatedAt": "2026-11-24T18:30:21.780145+00:00"
 }
