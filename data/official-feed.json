@@ -1,13 +1,5 @@
 {
  "feeds": {
-  "ACSC alerts": {
-   "ok": false,
-   "error": "The read operation timed out"
-  },
-  "ACSC advisories": {
-   "ok": false,
-   "error": "The read operation timed out"
-  },
   "CISA advisories": {
    "ok": true,
    "n": 30
@@ -255,5 +247,5 @@
    "snip": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)\u2014hereafter referred to as \u201cthe authoring organizations\u201d\u2014are aware of maliciou"
   }
  ],
- "generatedAt": "2026-11-24T07:57:30.148749+00:00"
+ "generatedAt": "2026-11-24T07:59:36.727095+00:00"
 }
