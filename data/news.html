@@ -31,17 +31,18 @@ main{max-width:1000px;margin:0 auto;padding:18px 5% 60px}
 <body>
 <header><h1>CyberSurf news desk</h1><p id="gen">Loading...</p></header>
 <main>
-<div class="bar"><input id="q" placeholder="Search headlines or sources"><button class="chip on" data-f="all">All</button><button class="chip" data-f="alert">Alerted</button><button class="chip" data-f="official">Official</button><button class="chip" data-f="top">Most relevant</button></div>
+<div class="bar"><input id="q" placeholder="Search headlines or sources"><button class="chip" data-f="all">All</button><button class="chip" data-f="alert">Alerted</button><button class="chip" data-f="official">Official</button><button class="chip on" data-f="top">Most relevant</button></div>
 <div id="list"></div>
 <div class="health" id="health"></div>
 </main>
 <script>
-var data=null,filter='all';
+var data=null,filter='top';
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function ago(iso){var m=Math.round((Date.now()-Date.parse(iso))/60000);return m<90?m+' min ago':m<2880?Math.round(m/60)+' h ago':Math.round(m/1440)+' days ago'}
 function render(){
   if(!data)return;var q=document.getElementById('q').value.toLowerCase(),out=[];
-  data.items.forEach(function(it){
+  var list=data.items.slice();if(filter==='top')list.sort(function(a,b){return b.r-a.r||Date.parse(b.p)-Date.parse(a.p)});
+  list.forEach(function(it){
     if(q&&(it.t+' '+it.s).toLowerCase().indexOf(q)<0)return;
     if(filter==='alert'&&!it.a)return;if(filter==='official'&&it.k!=='official')return;if(filter==='top'&&it.r<5)return;
     var tags=(it.a?'<span class="tag alert">alerted</span>':'')+(it.k==='official'?'<span class="tag off">official</span>':'')+(it.r>=5?'<span class="tag">relevant '+it.r+'</span>':'');
