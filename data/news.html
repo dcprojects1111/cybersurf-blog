@@ -50,7 +50,7 @@ function render(){
   });
   document.getElementById('list').innerHTML=out.join('')||'<p>Nothing matches.</p>';
 }
-fetch('news-feed.json?'+Date.now()).then(function(r){return r.json()}).then(function(d){
+fetch('/data/news-feed.json?'+Date.now()).then(function(r){return r.json()}).then(function(d){
   data=d;document.getElementById('gen').textContent='Updated '+ago(d.generatedAt)+' ('+d.items.length+' stories from '+d.feedsOk+'/'+d.feedsTotal+' feeds). Private: not indexed, not linked.';
   var bad=(d.down||[]);document.getElementById('health').innerHTML='Feed health: '+(bad.length?'<span class="bad">down: '+esc(bad.join(', '))+'</span>':'all feeds responding')+'. Alerts sent today: '+d.alertsToday+'.';
   render();
