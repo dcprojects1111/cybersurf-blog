@@ -1,0 +1,62 @@
+---
+layout: null
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>CyberSurf news desk (private)</title>
+<style>
+:root{--aqua:#00d2ff;--ocean:#0077be;--charcoal:#2d3436;--sand:#fcfdf2;--alert:#ff4757;--mid:#636e72}
+@media (prefers-color-scheme:dark){:root{--sand:#10202b;--charcoal:#e8f1f5;--mid:#9fb3bd}}
+*{box-sizing:border-box}body{margin:0;font-family:Roboto,system-ui,Arial,sans-serif;background:var(--sand);color:var(--charcoal);line-height:1.5}
+header{background:linear-gradient(135deg,#0a1628,#0d2240 50%,#0a2a38);color:#fcfdf2;padding:22px 5%}
+header h1{margin:0;font-family:Montserrat,system-ui,sans-serif;font-size:22px}header p{margin:4px 0 0;color:#9fd8ea;font-size:13px}
+main{max-width:1000px;margin:0 auto;padding:18px 5% 60px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin:6px 0 16px}
+.bar input{flex:1 1 220px;padding:10px 12px;border:1px solid #b8c4c9;border-radius:8px;font-size:15px;background:transparent;color:inherit}
+.chip{border:1px solid var(--ocean);color:var(--ocean);background:transparent;border-radius:999px;padding:7px 14px;font-size:13px;cursor:pointer}
+.chip.on{background:var(--ocean);color:#fff}
+.item{padding:11px 0;border-bottom:1px solid rgba(120,140,150,.25)}
+.item a{color:var(--ocean);font-weight:600;text-decoration:none}.item a:hover{text-decoration:underline}
+.meta{font-size:12.5px;color:var(--mid);margin-top:2px}
+.tag{display:inline-block;font-size:11px;border-radius:4px;padding:1px 6px;margin-right:6px;background:rgba(0,119,190,.12);color:var(--ocean)}
+.tag.alert{background:rgba(255,71,87,.14);color:var(--alert)}.tag.off{background:rgba(0,210,255,.18);color:#006c8a}
+.health{font-size:13px;color:var(--mid);margin-top:26px}.bad{color:var(--alert);font-weight:600}
+</style>
+</head>
+<body>
+<header><h1>CyberSurf news desk</h1><p id="gen">Loading...</p></header>
+<main>
+<div class="bar"><input id="q" placeholder="Search headlines or sources"><button class="chip on" data-f="all">All</button><button class="chip" data-f="alert">Alerted</button><button class="chip" data-f="official">Official</button><button class="chip" data-f="top">Most relevant</button></div>
+<div id="list"></div>
+<div class="health" id="health"></div>
+</main>
+<script>
+var data=null,filter='all';
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function ago(iso){var m=Math.round((Date.now()-Date.parse(iso))/60000);return m<90?m+' min ago':m<2880?Math.round(m/60)+' h ago':Math.round(m/1440)+' days ago'}
+function render(){
+  if(!data)return;var q=document.getElementById('q').value.toLowerCase(),out=[];
+  data.items.forEach(function(it){
+    if(q&&(it.t+' '+it.s).toLowerCase().indexOf(q)<0)return;
+    if(filter==='alert'&&!it.a)return;if(filter==='official'&&it.k!=='official')return;if(filter==='top'&&it.r<5)return;
+    var tags=(it.a?'<span class="tag alert">alerted</span>':'')+(it.k==='official'?'<span class="tag off">official</span>':'')+(it.r>=5?'<span class="tag">relevant '+it.r+'</span>':'');
+    out.push('<div class="item"><a href="'+esc(it.l)+'" target="_blank" rel="noopener noreferrer">'+esc(it.t)+'</a><div class="meta">'+tags+esc(it.s)+' &middot; '+ago(it.p)+'</div></div>');
+  });
+  document.getElementById('list').innerHTML=out.join('')||'<p>Nothing matches.</p>';
+}
+fetch('news-feed.json?'+Date.now()).then(function(r){return r.json()}).then(function(d){
+  data=d;document.getElementById('gen').textContent='Updated '+ago(d.generatedAt)+' ('+d.items.length+' stories from '+d.feedsOk+'/'+d.feedsTotal+' feeds). Private: not indexed, not linked.';
+  var bad=(d.down||[]);document.getElementById('health').innerHTML='Feed health: '+(bad.length?'<span class="bad">down: '+esc(bad.join(', '))+'</span>':'all feeds responding')+'. Alerts sent today: '+d.alertsToday+'.';
+  render();
+}).catch(function(){document.getElementById('gen').textContent='Could not load news-feed.json yet.'});
+document.getElementById('q').addEventListener('input',render);
+Array.prototype.forEach.call(document.querySelectorAll('.chip'),function(b){b.addEventListener('click',function(){
+  filter=b.getAttribute('data-f');Array.prototype.forEach.call(document.querySelectorAll('.chip'),function(x){x.classList.toggle('on',x===b)});render();})});
+</script>
+</body>
+</html>
