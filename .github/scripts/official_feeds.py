@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""Fetch official feeds that block cloud/datacentre IPs (ACSC, CISA) from GitHub's network and
-save one small JSON file for Darryl's n8n. Only commits when something changed."""
+"""Fetch official feeds that block Darryl's n8n server (CISA advisories) from GitHub's network and
+save one small JSON file for n8n. Only commits when something changed.
+Note: cyber.gov.au (ACSC) blocks overseas networks including GitHub, so it is NOT collected here."""
 import json, re, sys, datetime, email.utils, urllib.request, xml.etree.ElementTree as ET
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 FEEDS = [
-    ("ACSC alerts", "https://www.cyber.gov.au/rss/alerts", "official"),
-    ("ACSC advisories", "https://www.cyber.gov.au/rss/advisories", "official"),
     ("CISA advisories", "https://www.cisa.gov/cybersecurity-advisories/all.xml", "cisa"),
 ]
 OUT = "data/official-feed.json"
