@@ -9,10 +9,10 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
    "ts": "2026-11-24T12:00:00+00:00",
-   "snip": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure\u2122 Power Build Rapsody product. The EcoStruxure\u2122 Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item"
+   "snip": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability&nbsp; CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability&nbsp; CVE-20"
   },
   {
    "src": "CISA advisories",
@@ -21,6 +21,14 @@
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
    "ts": "2026-11-24T12:00:00+00:00",
    "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulne"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+   "ts": "2026-11-24T12:00:00+00:00",
+   "snip": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure\u2122 Power Build Rapsody product. The EcoStruxure\u2122 Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item"
   },
   {
    "src": "CISA advisories",
@@ -81,10 +89,10 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "Siemens SIMATIC WinCC",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+   "title": "Siemens RUGGEDCOM APE1808",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
    "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products "
+   "snip": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t"
   },
   {
    "src": "CISA advisories",
@@ -93,6 +101,14 @@
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
    "ts": "2026-11-17T12:00:00+00:00",
    "snip": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Contro"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious "
   },
   {
    "src": "CISA advisories",
@@ -129,10 +145,10 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "title": "Siemens meta-iot2050",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
    "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious "
+   "snip": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi"
   },
   {
    "src": "CISA advisories",
@@ -169,18 +185,10 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "Siemens RUGGEDCOM APE1808",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+   "title": "Siemens SIMATIC WinCC",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
    "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens meta-iot2050",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi"
+   "snip": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products "
   },
   {
    "src": "CISA advisories",
@@ -237,15 +245,7 @@
    "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
    "ts": "2026-11-10T12:00:00+00:00",
    "snip": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp; CVE-2026-111560 Barracuda Networks Multiple Products OS Co"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-   "ts": "2026-11-09T12:00:00+00:00",
-   "snip": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation.&nbsp; CVE-2026-102895 GPUStack Improper Authentication Vulnerability&nbsp; CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability&nbsp; CVE-2026-123158"
   }
  ],
- "generatedAt": "2026-11-24T18:30:21.780145+00:00"
+ "generatedAt": "2026-11-25T02:50:28.679986+00:00"
 }
