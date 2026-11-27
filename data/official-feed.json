@@ -9,6 +9,14 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
+   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+   "ts": "2026-11-27T12:00:00+00:00",
+   "snip": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability&nbsp; CVE-2026-136716 Drupal Cor"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
    "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
    "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
    "ts": "2026-11-25T12:00:00+00:00",
@@ -65,6 +73,14 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
+   "title": "libumqtt",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+   "ts": "2026-11-19T12:00:00+00:00",
+   "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt &lt;=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libum"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
    "title": "Elecbrakes EB2, VM1, ELBC2000",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
    "ts": "2026-11-19T12:00:00+00:00",
@@ -81,90 +97,10 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "libumqtt",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-   "ts": "2026-11-19T12:00:00+00:00",
-   "snip": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt &lt;=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libum"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
    "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
    "ts": "2026-11-18T12:00:00+00:00",
    "snip": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation.&nbsp; CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotected Alternate "
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens Industrial Software Products",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Dorsett Controls InfoScan",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Contro"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious "
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens Mendix Studio Pro",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Critical Java Vulnerability Requires Immediate Patching",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Ja"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens meta-iot2050",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens Simcenter Femap",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens ROS#",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat"
   },
   {
    "src": "CISA advisories",
@@ -177,10 +113,18 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
-   "title": "Siemens Industrial Automation Software Products",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+   "title": "Siemens ROS#",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
    "ts": "2026-11-17T12:00:00+00:00",
-   "snip": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot"
+   "snip": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens Simcenter Femap",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec"
   },
   {
    "src": "CISA advisories",
@@ -193,6 +137,22 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
+   "title": "Siemens meta-iot2050",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens Industrial Software Products",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
    "title": "Siemens SIMATIC WinCC",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
    "ts": "2026-11-17T12:00:00+00:00",
@@ -201,34 +161,58 @@
   {
    "src": "CISA advisories",
    "kind": "cisa",
+   "title": "Critical Java Vulnerability Requires Immediate Patching",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Ja"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens Mendix Studio Pro",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "CISA has added one new vulnerability to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious "
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Dorsett Controls InfoScan",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Contro"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens Industrial Automation Software Products",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+   "ts": "2026-11-17T12:00:00+00:00",
+   "snip": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot"
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
    "link": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
    "ts": "2026-11-13T12:00:00+00:00",
    "snip": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Cri"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens Building Automation and Energy Products",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-   "ts": "2026-11-12T12:00:00+00:00",
-   "snip": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens Industrial Edge Management",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-   "ts": "2026-11-12T12:00:00+00:00",
-   "snip": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM softwar"
-  },
-  {
-   "src": "CISA advisories",
-   "kind": "cisa",
-   "title": "Siemens RUGGEDCOM APE1808",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
-   "ts": "2026-11-12T12:00:00+00:00",
-   "snip": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in "
   },
   {
    "src": "CISA advisories",
@@ -242,10 +226,26 @@
    "src": "CISA advisories",
    "kind": "cisa",
    "title": "Siemens RUGGEDCOM APE1808",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+   "ts": "2026-11-12T12:00:00+00:00",
+   "snip": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in "
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens RUGGEDCOM APE1808",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
    "ts": "2026-11-12T12:00:00+00:00",
    "snip": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in "
+  },
+  {
+   "src": "CISA advisories",
+   "kind": "cisa",
+   "title": "Siemens Building Automation and Energy Products",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+   "ts": "2026-11-12T12:00:00+00:00",
+   "snip": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp"
   }
  ],
- "generatedAt": "2026-11-26T03:15:52.073519+00:00"
+ "generatedAt": "2026-11-27T22:09:43.042924+00:00"
 }
